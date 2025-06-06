@@ -1,856 +1,576 @@
+香港,#genre# 
+凤凰中文,http://smt.iktv.ddns-ip.net/Smart.php?id=phoenixtv_hd
+凤凰中文,http://smt.iktv.ddns-ip.net/Smart.php?id=phoenixtv_hd&token=81ee0c7ef579c502e78d73c40206e5eb
 
-香港焦点(电信网),#genre# 
-凤凰中文,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=681f6382000e9b949491d6a0147f3ee1
-凤凰资讯,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=681f62c2000d19e3948ee83c2e124f92 
-凤凰资讯test,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d6ec9a00054b1279830e527ec549c6
-凤凰香港,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67641d8000038fa1b90c9c78133d0607
-TVB翡翠,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=683c662c0008d5d705e38eda0218754e 
-TVB翡翠(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=683c673e000c269905e7bdf52a614f6b 
-TVB翡翠MY,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=681e0dfb0001dba78f5bbc03309903eb
-PoPc电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67dd13f500025a36918c92cb2ce274f3
-无线新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=683d393c0001967a091bc8cf13af24f7
-无线财经,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67dd0ed200096d81917883dd787b2064
-now新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=68107d9c000d5fed5a60024f00cc41b3
-now财经,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67dd0d5300071ab09172ab3a56ad7555
-now直播,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6417e77b0007feb1b6b9f4ca25bc6e04
-HOY咨询有线新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67ea910600096a5ec63cb1b5075355ba
-Hoy 77,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67dd0e8c0007cd66917772021af23f39
-TVB功夫,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6411291b0004b01b9c62861646d00929
-mytv super,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6533f044000117a52ce97ce95ac54bb3
-TVB娱乐新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64102219000c6f74985f28485a5a5799
-TVB PLUS J2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=681f64470002e67d9494d5290db67051 
-Thrill,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=644a0879000272f67a89b6687af342ae
-TVB千禧经典,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6410219e0000704b985d44bd2a501d47
-TVB黄金翡翠,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64206c63000c3a90d801201c5fe2483a
-TVB星河(粤),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641021c50003c5af985dddf037af353c
-TVB星河粤语,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124d6a00062ff8a0d85b176a3f19bd
-TVB星河国语,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124d490002f20da0d7d95b4dbe6256
-TVB粤语片,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643361c7000d4bee220f05703b541d41
-TVB华语剧,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643361e10003610a220f68773c0b4c78
-TVB戏曲,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=679d953d000945e59987130a6e93668b
-TVB爆谷(不稳定),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641af90c000328bac2b691f11db2274a
-TVB星影(不稳定),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67dcfee400009275913a47f5738354c8
-千禧经典,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124d230009d2bba0d746ad78416db2
-娱乐新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124d81000ccc51a0d8b69f1a1a762b
-电影一台,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=68107e33000568555a624e1d359e237c 
-viuTV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641021400008eb86985bd7b90b510a5b
-viuTV6,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6410215d000ad4ca985c497e192b3552
-新时代1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=673bfb69000723791c484da526413354
-新时代2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=673bfb9b000310101c490fea44ce2cbc
-Astro AOD 351,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6427ba150003a8b2f48864c0637f78d5
-Astro AOD 352,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6427ba33000e1d77f488dc9d368a21a6
-Astro AOD 353,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6427ba4e000e68a7f4894628702a319e
-Astro AOD 354,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6427ba6b0002c078f489b4757d803340
-Astro AOD 355,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6427ba850008c867f48a1b90472f7860
-RHK31,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64101f330006ab429853d45f7940453b
-RHK32,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641020b00001b8599859a360613572d7
-耀才财经,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64102268000ecb1f98605d7b0a602bf4
-iQIYI,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=649672870005e0a5a5062d0e1384610b
-有线体育,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64100a6b000527e19802a6b80be147fa
-now体育6,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6410211d00048968985b4de16d6e5b6a
-now体育6英超,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64b8f92b000089e02be334b114c32320
-now plus体育,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64b8f962000df4a32be40ef90d9f4afd
-EPL nsports 英超4keng,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64d74cf7000556f0223ed6366e5f689a
-EPL nsports 英超4k1粤语,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64d74ca40007202e223d927267473868
-EPL nsports 英超粤语,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64d74c1600083555223b68096e79387e
-EPL nsports 英超1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64d74cb1000cc276223dc6ac654a2299
-now体育61 Sports 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643361f20007b9a9220fabfc3001244e
-now体育62 Sports 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643362090006b031221005903b883d07
-now体育63 Sports 3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6433621d000d9c3522105573223958e1
-now体育64 Sports 4,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6437999f00025f983289265f38ef3722
-now体育65 Sports 5,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643799aa000e7bac3289547135e05a80
-now体育66 Sports 6,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643799bb00044f193289943e2e5f6ac1
-now体育67 Sports 7,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643799ca000a29a43289d0542d57262c
-HBO,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137f0b0006a17fa58238155813216c
-HBO家庭,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137f3c000d4a86a582f93235111bc5
-HBO原创,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137f700008f329a583c3344ddf5dfc
-HBO强档,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137f970005246ea5845a9326ce6233
-Kix HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413854d000785b1a59aaa2924fa1aa7
-Discovery Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641383f300048101a59561c464b07293
-有线18台跑马,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67e68a2900066333b6821880541a68d9
-CH288跑马,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=66a16f860009caffc099a9a4628b2101
-CH289跑马,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=66a1700a000c0c77c09badd9612a6a86
-跑马焦点(电信网), 
-SKY Racing 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312837000aebee195e62ed55557fd9
-SKY Racing 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312844000ad7b5195e95b069db4ef2
-Racingcom HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312852000912ad195ecbec6de2555f
-FOX Sports Racing HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312865000d9bbf195f174e5ec83175
-Ziggo Sport Racing,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312871000b6954195f459e7c10663c
-Dubai Sports 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431287f0003edcc195f7a6369cf47b8
-Dubai Sports 2b,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312936000a354e196246d611a14be4
-Dubai Racing 3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312942000933931962757447382f61
-Racing UK SPORT(UK),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431294f000b80ba1962a8d376855937
-KY SPORTS RACING,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431295b0006afff1962d67737a347d9
-娱家,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=65f5aef60008044721b5ba22261e5d65
-ECity 都会,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=65f5aefd0000f16221b5d3aa029b351e
-One HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124c0e00080254a0d30c2d0630425d
-Astro AEC(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124c2d0006c6eba0d384f41e28720a
-Astro AEC(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124c700006cf30a0d48aaf01411bf2
-Astro 全佳 Quanjia,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124c91000ce85ba0d50d273a3f550c
-Astro 欢喜 Huahee,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124caf0002a78fa0d57fb777596e7b
-Astro双星 ShuangXing,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124cd6000d2114a0d61abd59b301f5
-Celestial MY 天映,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124df1000c3585a0da6bf812014c1a
-Channel 8,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642606be0002dd54ede3d8b40d6c04dc
-Channel 8(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642605590007b381edde676b090919b0
-Channel 5,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642606de000ae43dede457c221b81de1
-Channel 5(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642606cc000ea9beede41269137f162d
-Channel u,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642606fa000535beede4c3ae3202280b
-Channel u(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642606ee00041309ede4948330973faf
-Suria,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642607350004432dede5a9e74ab33b04
-Suria(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642607270006fbf5ede573e945ee3a6c
-Vasantham,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6426075f0008f378ede64f2a028a268e
-Vasantham(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260747000040bcede5ef305d766294
-CNA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6426077a00093ea7ede6b8b64d6d4c6e
-CAN B,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6426078a00013cc2ede6f5290aab17e4
-CM+,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=65f5aee3000d00b621b571302181656e
-E -Le HD 乐,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=65f5aeef000e9d4b21b5a07a3391218d
-Hits Movies,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413852a000f0a74a59a235e4e1c318d
-Comedy Central,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413853b000926c2a59a644430b12c08
-Rugby Pass TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641385640003a0f9a59b02f333796f30
-Sun TV MY,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64138578000a0b4da59b52b76a9552c0
-Sun TVTataSky,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413858800046ac8a59b8fc622de0dc9
-Sun TV Tamil,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641385a2000d8ae7a59bf7ad23443b39
-Star Vijay,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641385b300076a44a59c388327276d0a
-STAR VIJAY india,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64f5a3ef000bd3723990b8062810502f
-BollyOne HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641385e40004d28aa59cf74f015c1fc8
-Astro Cricket,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413863000096560a59e215b32a17cc3
-Astro Vaanavil,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413864100052c3da59e62ae01dd502f
-Sun Music,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64138655000659f1a59eb11c4bb665a7
-Sony Max,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413866d000325caa59f0e0a0a6f3911
-Set Sony,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413868200096c30a59f61a5378b6035
-Sab Sony,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641386c1000c2bbfa5a05872576a61bd
-Zee Cinema,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641386d30008a32fa5a09dda08bc5c0d
-Zee TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641386e6000bfb90a5a0e8ee501f7fd5
-Astro Colors,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641386f70003798da5a1292811a2387f
-Colors HD TataSky,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413870b00037690a5a177473df07376
-Astro Adithya,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413872200000fa0a5a1d03f37ed2010
-Polimer news,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641387360006b6e4a5a2201438a0209c
-Raj TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641387490003dee5a5a2699101f2025c
-Jaya TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413875c000e1e78a5a2b66900ee49b9
-Chutti TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64138770000495faa5a30218116101b2
-UTV movies,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64138783000ac99ca5a34de73976474e
-Blue Ant Entertainm,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413809e000478cba5885dbe4d29586c
-Blue Ant Extreme,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641380b20005698fa588ac1c60782adf
-NHK World my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641381bd00065fefa58cbf5e66b171d0
-Disney Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413851900016945a599dd79676c38
-马来西亚焦点(电信网), 
-TV1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124205000b04f4a0abd9c7062c099b
-TV1(c),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412422400098c9ba0ac527f0ec009c8
-TV2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412424b000041f7a0ace87766f376ab
-TV3(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641242a400062e34a0ae45a35f531cbf
-TV3(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641242ff00087be4a0afa9b27b0b7e08
-TV6,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124329000acacea0b04e5a30ab3117
-NTV7,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6411231900057d36a0b0c9ff4e7f678e
-NTV7(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641243610000618fa0b12670759974c0
-8TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124384000000eda0b1af0f24c07c86
-8TV(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641243a500087b78a0b2322326f61656
-TV9,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641243d50008438ca0b2ed950e2e1cac
-TV9(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641243f1000a330da0b35b744b835759
-Makkah,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412440b0006f26ba0b3c02f44e15340
-Madinah,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124447000b5195a0b4aba62ea76703
-Drama Sangat,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412449c000257b9a0b5f5624d0621a2
-TVS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641244ba000752eea0b66bd9202b299b
-Awesome TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641244e9000576b1a0b722f7232a5c8b
-Okey,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641247390008ab2ba0c02c4a1e6d7c4a
-Astro Ria(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412475a0001e9b4a0c0ab7757361ac3
-Astro Ria(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641248070002b154a0c34f73189527bb
-Astro Ria(d),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124824000a5118a0c3c2af05400294
-Astro Prima (a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412483f000d7787a0c42cf514d31874
-Astro Prima (b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641248560003257fa0c484296e73655f
-Astro Warna(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412486f000d3f9ca0c4e86722ba3298
-Astro Warna(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412488e00083532a0c5603560d334fe
-Astro Warna(c),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641248a6000225cba0c5bc684ca70c67
-Astro Oasis,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641248c4000c9a91a0c63446638407ba
-Astro Sensasi,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641248e100089063a0c6a4857a9e76f5
-Astro Aura,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412490000029239a0c71c1415de4f23
-Astro Rania,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124a04000b9fa4a0cb160c3ad51b32
-Astro Awani,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124a1c000d2e3fa0cb743224ba1e56
-Astro Awani(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124a3a00017fd2a0cbe6651aba048c
-BOO,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137e860008ec16a58031233a436c8e
-Astro Ceria(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124a76000afc5da0ccd33328db54d4
-Astro Citra,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124a950004c142a0cd4ab321ff3eaa
-Astro Tutor UPSR,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124ab1000a05e4a0cdb96c45713a25
-Astro Tutor SPM,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124ad20003446da0ce389969675397
-Aljazeera,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124aec000d584ca0cea0be08dc17b5
-Bernama News,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124b0c000298f3a0cf1afc535930fa
-TV-AlHijrah,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124b2900044546a0cf8cb162560917
-TVN Movies,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124b780007d1a1a0d0c23228543327
-TVN Sin,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124bb50008793da0d1b0a6677f4152
-KBS World,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124bf3000b021aa0d2a37c477150fb
-ASSP3(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412463b00023f3ca0bc4a7430ab0660
-ASSP4(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124658000ad2c0a0bcbdee020d5132
+凤凰资讯,http://smt.iktv.ddns-ip.net/Smart.php?id=phoenixinfo_hd
+凤凰资讯,http://smt.iktv.ddns-ip.net/Smart.php?id=phoenixinfo_hd&token=8cfe154a89c29a23dac95e103210b1ec
+
+凤凰香港,http://smt.iktv.ddns-ip.net/Smart.php?id=hkphoenix_twn
+凤凰香港,http://smt.iktv.ddns-ip.net/Smart.php?id=hkphoenix_twn&token=3e7a532167763e22efbeab7dfcbd7
+
+无线新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=inews_twn
+无线新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=inews_twn&token=6152652bb0914112f170feb236d44b50
+
+无线新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=inews_twn
+无线新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=inews_twn&token=77da4ca185aed5370bdc2a3e35852517
+
+有线新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=hoycaijing_twn
+有线新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=hoycaijing_twn&token=7fdcc7e842c78125183c1226e416f096
+
+TVB翡翠,http://smt.iktv.ddns-ip.net/Smart.php?id=jade_twn
+TVB翡翠,http://smt.iktv.ddns-ip.net/Smart.php?id=jade_twn&token=f47735b020f1d6add83941684c26af66
+
+TVB翡翠台,http://smt.iktv.ddns-ip.net/Smart.php?id=Jade_xue
+TVB翡翠台,http://smt.iktv.ddns-ip.net/Smart.php?id=Jade_xue&token=b9918eaa8b49dc1025017fb07fa33774
+
+华丽翡翠,http://smt.iktv.ddns-ip.net/Smart.php?id=Wlt
+华丽翡翠,http://smt.iktv.ddns-ip.net/Smart.php?id=Wlt&token=a08dfef013ecf26f68e65ace63401b08
+
+无线华丽,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvbjade
+无线华丽,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvbjade&token=79bb331724e96bef0b178202c9746c61
+
+TVB Plus,http://smt.iktv.ddns-ip.net/Smart.php?id=j2_twn
+TVB Plus,http://smt.iktv.ddns-ip.net/Smart.php?id=j2_twn&token=361b40dd6019cc895583398b1feb5a2d
 
 
+HOY TV,http://smt.iktv.ddns-ip.net/Smart.php?id=hoycaijing_twn&token=b4036c4199e3609dd61c8dc31643202b
 
+TVB明珠,http://smt.iktv.ddns-ip.net/Smart.php?id=pearl_twn
+TVB明珠,http://smt.iktv.ddns-ip.net/Smart.php?id=pearl_twn&token=baf9ec4f2787b5502ad0d5be3e726c4a
 
+娱乐新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvbentertainment
+娱乐新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvbentertainment&token=0c63ffdfb0623613bd6e98ff7a77c91e
 
+千禧经典,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvbclassic
+千禧经典,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvbclassic&token=26f698687c093775b54cc51ca9c6c432
 
-台湾焦点(电信网),#genre#
-中天新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=683c65c5000dba4305e1fdc276de21a8
-寰宇新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=681f63f20009051894938ab2746802b3
-三立新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6766bc7f000ed78dc349b377648221c8
-三立台湾,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67dd0dfb00024b0791753a403a8044e9
-三立综合,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251e49000e34e7ea57d28a25014df2
-三立都会,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251e7300064780ea587492773a63cc
-TVBS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d8273d000111d07e4fe3b346f81c5b
-壹电视新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=681e0cbe0008660a8f56e76612fc77d6
-TVBS新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642521680002b5f3ea6400bb781026f0
-非凡新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=676955eb00013181cd70c73b35a34c93
-年代新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67694e1500009a3dcd522b1b1f7e14f1
-东森新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=68107ded0002d47a5a613c04716147ae
-中视新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67619ac100083ed5af3de392752b3307
-民视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67dd148800056eb9918ed1ce04f35b6a
-民视(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6442f24f00097e845edb5e492842265c
-民视新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6766bbef00035b7fc3477e06654678f1
-公视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251df1000b5a9cea567a0e255d4664
-台视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251e0800060844ea56d28a6fad038f
-台视财经,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6448a761000bec1a75267316701e7a90
-东森财经,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251ff20001f010ea5e4b9002e57212
-三立戏剧,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251e39000ed5bbea579433569b6381
-三立国际,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124e4200057913a0dba6a76ebf248c
-纬来电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251eae0001bef7ea5959e100ae671e
-纬来体育,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251ee9000a4e00ea5a428b26ea4156
-纬来日本,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251ef6000315a6ea5a737a6efc404a
-纬来精彩,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251f020003818bea5aa2750fef31c6
-纬来综合,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251f0d000c0b8fea5acf9d13b83665
-东森幼幼,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6430b41c0001f3831798d72948126428
-东森电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64253899000a078deabe99ff587050b0
-东森综合,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64253f6e0002d287ead9482831323a6d
-东森戏剧,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251f7a000bc46eea5c79536d5e2a0e
-东森洋片,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64251f8a0008854aea5cb6fe64e47b4e
-八大第一,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425207f00050f7aea60732c51b94fad
-八大综合,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642520b0000c3261ea61346800d61673
-八大娱乐,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642520730002bc15ea6043b344e032a5
-八大戏剧,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642520c1000929efea61760938521b57
-八大精彩,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=65435f63000ba94069331ccd6399041b
-华视综合,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642520cd000995d4ea61a5050eb67a8d
-民视第一,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642520e900023cc4ea621083588c7092
-民视影剧,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425257c000bd861ea73f1315c0e6e14
-民视综艺,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d012300040bf70925bb06321b0b87
-TVBS 精采,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642521570001b275ea63be1073931dd1
-TVBS-G欢乐,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642521950001d9f2ea64b04b059b66dd
-TVBS-精彩,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642521a2000c7beaea64e5cc482f669a
-靖洋戏剧,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642521b000094942ea651baa457674cb
-人间卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425224d00048156ea677fb9420534b4
-大爱电视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425225a0002859cea67b1ff6aaf6db6
-大爱二,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64252264000022beea67d87308e9122e
-MOMO亲子,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425226f000463e1ea68048207b3285f
-ELEVEN 体育1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425227b000100c6ea6832842d41783a
-ELEVEN 体育2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64252292000127feea688c6630d312e7
-ELTA体育1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425229e00024ab4ea68bb9154ab1928
-ELTA体育2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642522b0000a6c14ea6903f615622aab
-ELTA体育3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642522bd000ad1bbea6936d803e32fc0
-ELTA体育3国语,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6433e3220006392724084f1711880c01
-博斯魅力,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d395d0004e9950a015dce389f4c91
-博斯运动一,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d000d000525a509217d5a62e868e8
-博斯网球,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d0029000bd7e70921ec71212f5735
-博斯运动二,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d0087000484c5092359c47ee4201a
-博斯高球,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d009f000f1f000923ba3b26b667e4
-博斯高球二,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d00ae000e846a0923f4ac45c06f09
-博斯无限,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d00bf00041ae7092434690ae526c7
-ELTA综合,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642522cd000292e6ea69733b04032ded
-国家地理野生,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642523f2000e0f35ea6deeb16ff816c9
-历史频道2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642521e0000042a6ea65d4db3e9d23f9
-EYE TV旅游,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642524030003a5b2ea6e2e6f6efc45a1
-探索科学,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425241100084dfbea6e6650539d779f
-亚洲旅游,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642520f70001a86dea62470d303d34d3
-美食星球,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425252400079076ea72985811e07306
-CI 罪案侦查频道crime,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642520d9000d93c9ea61d4ea78792b01
-动物星球animal planet,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425241f00027d03ea6e9b836b853b0b
-星卫娱乐,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425242d000d55adea6ed4fa37195f98
-爱尔达影剧,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425243c00046a2eea6f0d4964f8022d
-Smithsonian Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64252459000cfdb2ea6f80c37a14067d
-金光布袋戏,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425246600099458ea6fb2ab4398320b
-CatchPlay电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64252479000b7f1aea6ffd6177e3015c
-卫视中文 HD Star Chinese,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64252507000eefc4ea7228f32f390502
-好莱坞电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425244f0001184fea6f56a70aca63d2
-卫视电影台scm,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642525150008a4ecea725e071929091e
-星卫HD电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642521030009ef43ea62780c438e2a38
-美亚电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642525310003ad3cea72ca2155c734c3
-卫视HD电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425253c0007ee60ea72f6307ae25fdd
-JET TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6425254d000d3abeea7339f47b5d4bf5
-BRAVO中视青采,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642525590004d7f3ea7366ae4aeb3d9d
-中天娱乐,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642525670005ee2bea739da573c134b4
-中天亚洲,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6777d8b3000cf17a061f70ad45a34b66
-中天综合,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d0188000d7c49092747f97ffc7c72
-猪哥亮歌厅秀,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d012f00030a3c0925e9a4065b1986
-靖天育乐,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d013d0001084409261fd04c0c3c04
-龙翔时代电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d014b0009f96e092658cb4e1b23ff
-Baby First,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d015f000070f00926a47a6a2e7d52
-ET综合,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d017d0000a964092719b87e2e3acd
-好消息,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d01960008dc0109277d7a4fc40fce
-好消息2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d07140006a38a093cf11414d83398
-CNN my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641380c6000d7e73a588fc4e012b3240
-CNBC my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64138101000e328aa589e2f46ee85f3d
-ABC Australia my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413811b0006e5f7a58a46a6057a4674
-Sky News HD my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641381340003e883a58aa78a57c53479
-Bloomberg TV my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413814f000a6413a58b12ab52934c96
-France 24 my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413816700069158a58b6f7a03cd341c
-Euro news my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413817b0003393aa58bbcbf158b6409
-FOX News my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413818e000154fca58c067b60210765
-BBC News HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641384e7000133cda5991a1b33cb3ea0
-DW HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641384f6000cbd09a59957a77daa41a1
+viuTV,http://smt.iktv.ddns-ip.net/Smart.php?id=viu1_twn
+viuTV,http://smt.iktv.ddns-ip.net/Smart.php?id=viu1_twn&token=d52a45d5cbfd779ed441d5d7aac7a555
 
+viuTV6,http://smt.iktv.ddns-ip.net/Smart.php?id=viusix_twn
+viuTV6,http://smt.iktv.ddns-ip.net/Smart.php?id=viusix_twn&token=487226e1f42715b29d9c6728b50ab675
 
+RHK31,http://smt.iktv.ddns-ip.net/Smart.php?id=rhk31_twn
+RHK31,http://smt.iktv.ddns-ip.net/Smart.php?id=rhk31_twn&token=0ec1b2b17cfdb8f77b9265118396289c
 
+RHK32,http://smt.iktv.ddns-ip.net/Smart.php?id=rhk32_twn
+RHK32,http://smt.iktv.ddns-ip.net/Smart.php?id=rhk32_twn&token=6b329c5502c0146920c9d59813cca19e
 
+TVB星河 Xing,http://smt.iktv.ddns-ip.net/Smart.php?id=Xinhe
+TVB星河,http://smt.iktv.ddns-ip.net/Smart.php?id=Xinhe&token=45e1ff0e100895184106ac5153c61376
 
+美亚电影,http://smt.iktv.ddns-ip.net/Smart.php?id=meiyamovie_twn
+美亚电影,http://smt.iktv.ddns-ip.net/Smart.php?id=meiyamovie_twn&token=02d9b503b9d8b9155e9f60908e67b42c
 
-中国焦点(电信网),#genre# 
-CCTV-1综合,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=681f621a0008a0fb948c56d629ac0ba1
-CCTV-2财经,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260c83000b5f74edfa64604fe67a12
-CCTV-3综艺,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260c9b0000ca3dedfabf6a10b00144
-CCTV-4中文国际,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67dcfe77000b52d79138a0ed4cc7303a
-CCTV-5体育,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=683c669a0005ad3805e53bac7e1d49af
-CCTV-5+体育赛事,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67ea95db0000abfac64f8f8607462dc9
-CCTV-6电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260cc800087ffdedfb712c61a06569
-CCTV-7国防军事,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260cd9000ba7ebedfbb46356b665a0
-CCTV-8电视刷,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260ce50007141fedfbe217161d5245
-CCTV-9纪录,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260cef0008fa21edfc09a37d024704
-CCTV-10科教,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260d0a000e81f1edfc74866d9b5c0f
-CCTV-11戏曲,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260dce0000aea8edff6e9d426b2704
-CCTV-12社会与法,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260e37000ca83aee010bd5707e0fea
-CCTV-13新闻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260e45000ccab2ee01428e6da4043d
-CCTV-14少儿,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260e4f0007169bee0168271778447e
-CCTV-15音乐,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260e5a000a63ffee0193f872fa5767
-江苏卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260e700008a9f5ee01e97667ca7d36
-江苏卫视(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260e7d000134abee021a56268d6ac1
-湖北卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260ed500091677ee0374195121319b
-湖南卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260ee40007c511ee03ae5a4aed536d
-东方卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260ef600069de1ee03f45f41e9710e
-山东卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260f89000475c3ee06320a031a7286
-江西卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260f920000727aee06542a02064fce
-广东卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260f9d0003bfdeee067ffb753744c8
-黑龙江卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260fa7000c1330ee06a92c52724886
-河南卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260fb100056a93ee06ce871c2e5071
-海南卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260fc10002a54fee070c525d0d5e83
-东南卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260fcb00035aa0ee0733907e64579c
-安徽卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260fd5000d5883ee075d2f7d6a48e2
-北京卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260fe100097b88ee078b124b8f3f9d
-浙江卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64260fec0004b10aee07b4d0681c628b
-广东珠江,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6799835900013ee889a12e634f961767
-深圳卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64261082000a8e12ee0a00412f96293c
-厦门卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6426108e00058067ee0a2dd646df0d41
-大湾区卫视,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64261096000de036ee0a4f3b523d603e
-广东少儿,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642610a2000b33ebee0a7d6c26c160b2
-广东综艺,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642610b9000df973ee0ad7f9779b6483
-广东国际,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642610c3000df7f5ee0aff0975881941
+台湾,#genre#
+中天新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ctinews
+中天新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ctinews&token=dba2d2e71f74d1fcde6e20e38038c323
 
+寰宇新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyuxinwen_twn
+寰宇新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyuxinwen_twn&token=a7cc55ea3aac58576aea7e5e2a5110a5
 
+三立台湾,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlitaiwan
+三立台湾,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlitaiwan&token=0601b1791a40304cd48191c6e4f993a6
 
+TVBS亚洲,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvbasia
+TVBS亚洲,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvbasia&token=4b0db60437f43a9820509543ada94c16
 
+三立都会,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlidouhui
+三立综合,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlizhonghe
+三立戏剧,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlixiju_twn
+爱尔达综合,http://smt.iktv.ddns-ip.net/Smart.php?id=eltazonghe_twn
+爱尔达影剧,http://smt.iktv.ddns-ip.net/Smart.php?id=eltayingju_twn
+TVBS新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
+年代新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
+东森新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvnews
+民视新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvnew_taiwan
+中视新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=zhongshinews_twn
+台视新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ttvnews_twn
+台视综合,http://smt.iktv.ddns-ip.net/Smart.php?id=ttvzhonghe_twn
+台视综合,http://smt.iktv.ddns-ip.net/Smart.php?id=ttvzhonghe
+非凡新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=feifannews_twn
+天映频道,http://smt.iktv.ddns-ip.net/Smart.php?id=Celestial
+天映频道,http://smt.iktv.ddns-ip.net/Smart.php?id=ctv18_twn
+龙华电影,http://smt.iktv.ddns-ip.net/Smart.php?id=xingwei_movie
+龙祥时代,http://smt.iktv.ddns-ip.net/Smart.php?id=lungxiangtime_twn
+龙祥时代,http://smt.iktv.ddns-ip.net/Smart.php?id=cb7a1fec69
+纬来电影,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
+Astr爱奇艺,http://smt.iktv.ddns-ip.net/Smart.php?id=Qiyi
+Astr QJ,http://smt.iktv.ddns-ip.net/Smart.php?id=Quanjia
+Astr欢喜,http://smt.iktv.ddns-ip.net/Smart.php?id=Huahee
+Astr欢喜 backup,http://smt.iktv.ddns-ip.net/Smart.php?id=Huahee_backup
+民视,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvhd_taiwan
+中视,http://smt.iktv.ddns-ip.net/Smart.php?id=zhongshihd_twn
+华视,http://smt.iktv.ddns-ip.net/Smart.php?id=ctshd_twn
+台视,http://smt.iktv.ddns-ip.net/Smart.php?id=ttv_taiwan
+公视 CTV,http://smt.iktv.ddns-ip.net/Smart.php?id=ctv_taiwan
+TVBS HD,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs
+TVBS欢乐,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbshuanle_twn
+民视第一,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuajingdian_twn
+民视台湾,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvtaiwan_twn
+中视经典,http://smt.iktv.ddns-ip.net/Smart.php?id=zhongshi_twn
+公视台语,http://smt.iktv.ddns-ip.net/Smart.php?id=ctv2_twn
+中天娱乐,http://smt.iktv.ddns-ip.net/Smart.php?id=ctient
+中天综合,http://smt.iktv.ddns-ip.net/Smart.php?id=ctizhonghe
+中天亚洲,http://smt.iktv.ddns-ip.net/Smart.php?id=ctiasia_twn
+八大第一,http://smt.iktv.ddns-ip.net/Smart.php?id=badafirst
+八大综合,http://smt.iktv.ddns-ip.net/Smart.php?id=badazhonghe
+八大戏剧,http://smt.iktv.ddns-ip.net/Smart.php?id=badadrama
+八大娱乐,http://smt.iktv.ddns-ip.net/Smart.php?id=badaentertain
+东森综合,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvzhonghe
+东森戏剧,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvdrama
+东森洋片,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvwestern
+东森电影,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
+卫视电影,http://smt.iktv.ddns-ip.net/Smart.php?id=weishimovie_twn
+东森幼幼,http://smt.iktv.ddns-ip.net/Smart.php?id=yoyo_twn
+东森超视,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvsuper
+东森财经,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
+寰宇财经,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyutaiwan_twn
+华艺综合,http://smt.iktv.ddns-ip.net/Smart.php?id=weishichinese_twn
+阿里郎,http://smt.iktv.ddns-ip.net/Smart.php?id=arirang_twn
+AXN电影,http://smt.iktv.ddns-ip.net/Smart.php?id=axn_twn
+CInemax,http://smt.iktv.ddns-ip.net/Smart.php?id=cinemax_twn
+HBo高清,http://smt.iktv.ddns-ip.net/Smart.php?id=hbohd_twn
+HBo家庭,http://smt.iktv.ddns-ip.net/Smart.php?id=fyi_twn
+HBO_HITS,http://smt.iktv.ddns-ip.net/Smart.php?id=hbohits_twn
+HBO_HITS,http://smt.iktv.ddns-ip.net/Smart.php?id=hbohit_twn
+好莱电影,http://smt.iktv.ddns-ip.net/Smart.php?id=hollywoodmovies_twn
+龙华戏剧,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuaxiju_twn
+龙华偶像,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuaidol_twn
+龙华洋片,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuawestern_twn
+纬来电影,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie_twn
+纬来日本,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandjapan
+纬来体育,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandsport
+纬来综合,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandzonghe
+纬来育乐,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandyule
+纬来精彩,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandspecial_twn
+靖天国际,http://smt.iktv.ddns-ip.net/Smart.php?id=jingtianintl_twn
+靖天卡通,http://smt.iktv.ddns-ip.net/Smart.php?id=jingtiancartoon_twn
+大爱壹台,http://smt.iktv.ddns-ip.net/Smart.php?id=daai_twn
+大爱贰台,http://smt.iktv.ddns-ip.net/Smart.php?id=daai2_twn
 
+中国,#genre#
+广东珠江,http://smt.iktv.ddns-ip.net/Smart.php?id=zhujiang
+大湾区卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=nanfang_twn
+广东卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=guangdongweishi_twn
+深圳卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=shenzhen
+江苏卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=jiangsu_twn
+东方卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=dongfangweishi_twn
+北京卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=beijing
+湖北卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=hubei
+湖南卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=hunan_twn
+东南卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=fujian
+浙江卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=zhejiang_twn
+广西卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=guangxi
+四川卫视,http://smt.iktv.ddns-ip.net/Smart.php?id=sichuan_twn
 
-电影焦点(电信网),#genre# 
-HBO HD my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137ee50006d7eca581a3b3297e60a3
-HBO Family my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137f29000ae5e4a582ae5d42d65d7a
-HBO Signature my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137f530000971da5834fca2631479a
-HBO Hits my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137f85000a578fa58415985b5b1f5d
-AXN tw,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137fb6000e2555a584d5f94945113b
-AXN tw2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64137fed000660a5a585aad4055228a8
-AXN my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413800100002d47a585f75e0b4d15d4
-Hits Movies my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413808800072695a588087e3cc239d1
-CCM 天映经典,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124d990007b0aaa0d9131033d9354a
-CCM 天映经典 CN中英字幕,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124dd500082194a0d9fd8d736a3dff
-Celestial MY 天映,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124e2b000b454ba0db4e4b137c6137
-Celestial MY 天映2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124e0f00045619a0dadf2552b73bf8
-HBO Signature USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fab94000cb9a6cf0e66527fc930bc
-HBO USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645faf2100095cb2cf1c4442765c172b
-HBO 2 USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645faf2e00057979cf1c760b55dd62b3
-HBO Comedy USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645faf390002967ccf1ca046036d356a
-HBO HD SIN USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645faf4700077bb5cf1cd83772282520
-HBO_West USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645faf5300023119cf1d05bc76d93f08
-Lifetime USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6462704200005b24d9de70b7255a7658
-LIFETIME MOVIES USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a5a5000a7afede96fe1018a905c5
+CCTV-1综合,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv1
+CCTV-2财经,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv2
+CCTV-3综艺,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv3
+CCTV-4中文国际,http://smt.iktv.ddns-ip.net/Smart.php?id=Cctv4
+CCTV-5体育,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv5
+CCTV-5+体育赛事,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv5plus
+CCTV-6电影,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv6
+CCTV-7国防军事,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv7
+CCTV-8电视剧,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv8hd
+CCTV-9纪录,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv9hd
+CCTV-10科教,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv10hd
+CCTV-11戏曲,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv11
+CCTV-12社会与法,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv12
+CCTV-13新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv13
+CCTV-14少儿,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv14
+CCTV-15音乐,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv15
+CCTV-16奥林匹克,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv16
+CCTV-17农业农村,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv17
 
-体育焦点(电信网),#genre# 
-ASSP1(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412459f000acfeba0b9eb4448574dee
-ASSP1(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641245bc0008335da0ba5be15de04db6
-ASSP2(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641245e30005d242a0baf39e4a3f4a03
-ASSP2(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641245fd000a6c90a0bb5a5b3f082922
-ASSP4(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641246e00009e30fa0bed0f161d56da7
-ASSP5(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641246fc0003baafa0bf3cbe4c8736d8
-ASSP5(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412471a00065484a0bfb29809e370b5
-Golf Channel USA my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311ed10003b7461939aaa6737c19fe
-Golf Channel tw,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311ec30002641e1939739f2a9f6e82
-Golf SuperSports,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311edf000047af1939e0754ac733f5
-Spotv,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6481dc3c00077243549b8cd35b4f0f7f
-Bola Arena1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641245040004d52aa0b78c446be55863
-Bola Arena2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124524000e86a3a0b80bbf421014d4
-Astro Arena,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6412454a0000fbb4a0b89cb81723411e
-Astro Arena 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124580000df2d5a0b972fa5e5d3940
-Astro Arena 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124568000c643aa0b914d41041515b
-BeIN Sports,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641381d2000619c4a58d111123107b6d
-BeIN Max Sports,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641381e300044201a58d534366ce199d
-wwE Network,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641381f6000cd704a58d9fae064d2ede
-Golf Channel SKY SPORT,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413821c000b77b6a58e33c27f83093b
-TSN 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643119270003db6719238a985be41867
-TSN 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311978000dc8961924c98b13117b70
-TSN 3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311ac1000558571929cc872ad35eec
-TSN 4,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311b14000f390a192b13475a166e90
-TSN 5,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311b67000c0613192c56ad05b518b5
-ESPN 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311ba20007409b192d3bec4f60079a
-ESPN 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311d29000d2a3b193334cb71ba3db4
-ESPN 3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311e68000a2a1d1938121f51b1501b
-NBA TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311e75000090631938427279742fef
-NBA TV(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311e81000176281938718d4b003c1b
-beIN Sports 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311e93000ba7aa1938ba7e1e4b3642
-beIN Sports 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311ea0000526211938eb9c63bc100c
-beIN Sports 3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311eac00023ce5193919bd41e13e59
-wwE Network,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311eec0001de06193a13a553747072
-wwE HD backup,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642fa8b7000065051384543f2842233e
-Fight Sports T,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311efc000d6103193a55176c7f5df0
-UFC Fight Pass UK,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311f0a0003c10b193a89517a060079
-MUTV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64311f27000ef2df193afd76183366ae
-MUTV Backup,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643142567009d890195327a22a5d7ee1
-Tennis Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431257d000c445b1953bcb05b6e7e1a
-SONY SIX HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431258f00078b1a195401ca779371a1
-SONY TEN 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643125a30006d14d19544fbb7da27f2a
-SONY TEN 2 HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643125b30006aa5919548e3114052626
-SONY TEN 3 HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643125c20009916d1954c98c31471159
-Sony TEN 4,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643125d2000a5e391955084066b953b5
-SuperSport Cricket TL,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643125e8000da3e019555f0767a373ec
-SKY SPORTS CRICKET HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643125f6000c1bc9195595521266639c
-ASTRO Cricket,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431265d0001c1b519572503322821da
-WILLOW CRICKET,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431266a00044bcc1957587229c344de
-SKY SPORT F1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312677000c166b19578d3854af5dbc
-Fox Sports News AU,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312683000d39211957bc627ed1087d
-Fox Sports 501 AU,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643127000001d7eb1959a1c15b2e5498
-Fox Sports 502 AU,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431270b000a24ff1959ced93173500e
-Fox Sports 503 AU,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431271a00081cc9195a08ec32034279
-Fox Sports 504 AU,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431272a0000d1b5195a458e5f7560f2
-Fox Sports 505 AU,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431273a000479c1195a84fe134c0433
-Fox Sports 506 AU,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431274800023ad9195abb1b74513383
-Fox Sports 507 AU,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643127fc0003ca86195d7aa277b31909
-Fox Sport 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431280d00013bf3195dbc6232857455
-FIFA Fox sport 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6431281c000302be195df76f404b53d2
-Fox Sports 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643128290007b145195e2b6a6384316a
-STAR SPORTS 1 HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643129690000652719630b8b0f766ba7
-Star Sports 2 HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312975000bc42d19633d543ad20d2e
-Star Sports Select 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643129c6000c2bdb196479d77b6f7e96
-Star Sports Select 1b,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643129d50004aa151964b2834730348c
-Star Sports Select 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643129e6000a70531964f6661182226c
-Star Sports Select 2b HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643129f40005210b19652bb847830d99
-SKY SPORTS FOOTBALL,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312a3d000a7d6c19664a3f15773237
-SKY SPORTS MAIN EVENT,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312a4d0002b877196686c254e3270d
-SKY SPORTS PREMIER LEAGUE,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312a5c000d11031966c4005f4e2e4d
-SKY SPORTS NFL UK,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312a6b000a8eed1966fdf44a0647cc
-SKY Sports News (b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312a790008c9e5196734307fc34a77
-Sky Sport Arena HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312a880002b5bf19676d3a18fb1676
-BT SPORT 1 UK,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312a95000d94a71967a2ca00065aeb
-BT SPORT 2 UK,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312aaa0009428c1967f3b71a5952ed
-BT SPORT 2(b) SPORT(UK,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312aba00036517196830b750ea44d5
-BT Sport 3 FHD UK,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64312ace000b3d0b196880d9185f2371
-MLB NETWORK,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=644fd4d2000d8202912fba3672c5421a
-Sony Ten 1 Sport 1 USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa6e400023cd9cefc142d4d100fb2
-Sony Ten 3 HD USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa6d700056943cefbe23534d84052
-ESPN U HD USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fab36000d59f1cf0cf74b44076241
-ESPN 3 USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fab49000ca662cf0d415574523331
-Golf Channel USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fab54000b6df5cf0d6bfd479148d1
-TSN 1 USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb74800051f03cf3c1b7e48bd434c
-TSN 4 USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb758000165ffcf3c590a38de4f76
-TSN 5 USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb76a0007dccfcf3ca10218644e9c
-wwE USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6462701400067a04d9ddbe9873b90463
-BEIN SPORTS 11 USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a5b400077f08de9737e474b0055b
-USA: BeIN Sports 4 USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a5cb00045120de9790ec0ec340aa
-USA: BeIN Sports 6 USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a5de00091722de97dc4d0e413139
-beIN Sports USA1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a5eb000a7089de980f6e0e9c48d5
-Supersport Premier League USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a5f80008b1c0de9841c45e2d124f
-Supersport Football USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a606000229f7de9876c846553fcc
-Supersport LaLiga USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a6260000ab5fde98f3660a053de2
-SuperSport MaXimo USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a638000409ffde993a937bef2d62
-Supersport Motorsport USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a64500015776de996caa4be276c3
-Supersport PSL USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a8ff000b74a1dea415d470ea7983
-Supersport Variety 3 USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a90d000d7e9adea44d0a511a6930
-Supersport Variety 4USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a926000e1336dea4aed876667f60
-Tennis Channel USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a94a000dac55dea53b5e725857f0
+马来西亚,#genre#
+TV1 backup,http://smt.iktv.ddns-ip.net/Smart.php?id=TV1_backup
+TV2,http://smt.iktv.ddns-ip.net/Smart.php?id=TV2
+TV3,http://smt.iktv.ddns-ip.net/Smart.php?id=TV3
+NTV7,http://smt.iktv.ddns-ip.net/Smart.php?id=NTV7
+TV8,http://smt.iktv.ddns-ip.net/Smart.php?id=TV8
+TV9,http://smt.iktv.ddns-ip.net/Smart.php?id=TV9
+Warna,http://smt.iktv.ddns-ip.net/Smart.php?id=Warna-O
+Warna backup,http://smt.iktv.ddns-ip.net/Smart.php?id=Warna
+Prima,http://smt.iktv.ddns-ip.net/Smart.php?id=Prima
+CNN backup,http://smt.iktv.ddns-ip.net/Smart.php?id=cnn_twn
+Ria backup,http://smt.iktv.ddns-ip.net/Smart.php?id=Ria49
+Ria-3,http://smt.iktv.ddns-ip.net/Smart.php?id=Ria_quanjia
+Al-Hijrah,http://smt.iktv.ddns-ip.net/Smart.php?id=Alhijrah
+Al-Hijrah backup,http://smt.iktv.ddns-ip.net/Smart.php?id=Alhijrah_backup
+Awani,http://smt.iktv.ddns-ip.net/Smart.php?id=Awani
+Bernama,http://smt.iktv.ddns-ip.net/Smart.php?id=Bernama
+Prima,http://smt.iktv.ddns-ip.net/Smart.php?id=Prima-0
+Prima backup,http://smt.iktv.ddns-ip.net/Smart.php?id=Prima49
+Ceria,http://smt.iktv.ddns-ip.net/Smart.php?id=Ceria
+Astro MTV,http://smt.iktv.ddns-ip.net/Smart.php?id=AstroMTV
+Mecca Live HD,http://smt.iktv.ddns-ip.net/Smart.php?id=quran_mido
+Madinah HD,http://smt.iktv.ddns-ip.net/Smart.php?id=sunnah_mido
+Oasis,http://smt.iktv.ddns-ip.net/Smart.php?id=Oasis
+HBO HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Hbo
+HBO Signature,http://smt.iktv.ddns-ip.net/Smart.php?id=Hbosignature
+HBO Hits,http://smt.iktv.ddns-ip.net/Smart.php?id=Hbohits
+NatGeo Wild HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Natgeowild
+Cartoon Network,http://smt.iktv.ddns-ip.net/Smart.php?id=Cn
+Boomerang Taiwan,http://smt.iktv.ddns-ip.net/Smart.php?id=boomerang_twn
+Baby TV,http://smt.iktv.ddns-ip.net/Smart.php?id=babytv_twn
+MiaoMi,http://smt.iktv.ddns-ip.net/Smart.php?id=MiaoMi
+Nickelodeon,http://smt.iktv.ddns-ip.net/Smart.php?id=Nickelodeon
+Nick Jr,http://smt.iktv.ddns-ip.net/Smart.php?id=Nickjr
+Citra,http://smt.iktv.ddns-ip.net/Smart.php?id=Citra
+Sensasi,http://smt.iktv.ddns-ip.net/Smart.php?id=Sensasi
+Aura,http://smt.iktv.ddns-ip.net/Smart.php?id=Aura
+Rania,http://smt.iktv.ddns-ip.net/Smart.php?id=Rania
+Boo,http://smt.iktv.ddns-ip.net/Smart.php?id=Boo
+Awesome TV,http://smt.iktv.ddns-ip.net/Smart.php?id=Dsangat
+Sony HD,http://smt.iktv.ddns-ip.net/Smart.php?id=SetOne
+KBS World,http://smt.iktv.ddns-ip.net/Smart.php?id=KBS
+TvN,http://smt.iktv.ddns-ip.net/Smart.php?id=TVN
+Astro Premier,http://smt.iktv.ddns-ip.net/Smart.php?id=Astropremier
+AEC,http://smt.iktv.ddns-ip.net/Smart.php?id=AEC
+TV1,http://smt.iktv.ddns-ip.net/Smart.php?id=TV1
+TV3 SD,http://smt.iktv.ddns-ip.net/Smart.php?id=TV3_mega
+Ria,http://smt.iktv.ddns-ip.net/Smart.php?id=Ria
+Ria-3,http://smt.iktv.ddns-ip.net/Smart.php?id=Ria_backup
+Prima backup,http://smt.iktv.ddns-ip.net/Smart.php?id=AAprima1
+Prima backup 2,http://smt.iktv.ddns-ip.net/Smart.php?id=AAprima
+HBO Hits,http://smt.iktv.ddns-ip.net/Smart.php?id=Hbohitshd
+Dreamworks,http://smt.iktv.ddns-ip.net/Smart.php?id=Dreamworks
+Siar,http://smt.iktv.ddns-ip.net/Smart.php?id=Siar
+Citra,http://smt.iktv.ddns-ip.net/Smart.php?id=AAcitra
+Citra backup,http://smt.iktv.ddns-ip.net/Smart.php?id=AAcitra1
+Astro Sonypix,http://smt.iktv.ddns-ip.net/Smart.php?id=Asonypix
+AOD,http://smt.iktv.ddns-ip.net/Smart.php?id=Aodhd
+One,http://smt.iktv.ddns-ip.net/Smart.php?id=One
+Foodnetwork Hd,http://smt.iktv.ddns-ip.net/Smart.php?id=Foodnetwork
+BolaArena 1,http://smt.iktv.ddns-ip.net/Smart.php?id=Bolaarena1
+Astro LOL,http://smt.iktv.ddns-ip.net/Smart.php?id=Astro_lol
+Astro Rusi,http://smt.iktv.ddns-ip.net/Smart.php?id=Rusi
+WION,http://smt.iktv.ddns-ip.net/Smart.php?id=Wion
+RTM Asean,http://smt.iktv.ddns-ip.net/Smart.php?id=Rtmasean
+tvN Movie,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvnmovie
+Celestial Classic,http://smt.iktv.ddns-ip.net/Smart.php?id=Celestial2
+CNBC,http://smt.iktv.ddns-ip.net/Smart.php?id=cnbc_twn
+CNA,http://smt.iktv.ddns-ip.net/Smart.php?id=cna
+BBC World News,http://smt.iktv.ddns-ip.net/Smart.php?id=bbcnews_twn
+BBC World News,http://smt.iktv.ddns-ip.net/Smart.php?id=Bbcnews
+BBC World News,http://smt.iktv.ddns-ip.net/Smart.php?id=bbcworldnews_antik
+Foodnetwork Hd,http://smt.iktv.ddns-ip.net/Smart.php?id=Foodnetwork_mega
+HGTV,http://smt.iktv.ddns-ip.net/Smart.php?id=HGTV
+RTM Sports HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Rtmsport
+Goshop,http://smt.iktv.ddns-ip.net/Smart.php?id=Goshop
+Arena,http://smt.iktv.ddns-ip.net/Smart.php?id=Arena
+Axn HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Axn
+Paramount Network,http://smt.iktv.ddns-ip.net/Smart.php?id=Paramountnetwork
+Arena 2,http://smt.iktv.ddns-ip.net/Smart.php?id=Arena2
+Astrol Kplus,http://smt.iktv.ddns-ip.net/Smart.php?id=Kplus
+Rock Actions,http://smt.iktv.ddns-ip.net/Smart.php?id=Rockaction
+Bloomberg News,http://smt.iktv.ddns-ip.net/Smart.php?id=bloomberg_twn
+Al-Jazeera,http://smt.iktv.ddns-ip.net/Smart.php?id=aljazeera_twn
+Rock Entertainment,http://smt.iktv.ddns-ip.net/Smart.php?id=Rockentertain
+Showcase,http://smt.iktv.ddns-ip.net/Smart.php?id=Showcase_mega
+BolaArena 2,http://smt.iktv.ddns-ip.net/Smart.php?id=Bolaarena2
 
-知识焦点(电信网),#genre# 
-HGTV HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64138230000a80f9a58e81a3428a31c6
-HGTV TW,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641382440002a30ca58ecdbf74a8039c
-AFC AFN,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641382600009923ea58f3ce6638b7516
-TLC HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64138278000b9ab8a58f9b2b5a106790
-TLC旅游生活,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413828d000cff1da58fed8f7d2719cf
-Food Network,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641382a10003769fa590393e3fb23f92
-Asia Food Network,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641382ce0009fbafa590eab223060296
-E! HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641382e1000e0ae1a59135f449455b3d
-DMAX HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413830e000184eea591e2872b6d66d2
-Travel Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413832400050785a592395d1e6e5cd2
-Travel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413833b0002906da592929427bc2047
-CI 罪案侦查频道,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413834e0001dcdfa592dc9e70500376
-Animal Planet,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64138361000ebac2a5932a2128c72b2e
-NatGeo,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413837500016343a59374d77edf394b
-NatGeo wild HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413838c000428cca593cf656569021f
-HISTORY2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641383a2000b3d73a59427257bb61a15
-Discovery Science,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641383bd000eddc3a594917b13206375
-Discovery Science TW,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641383d0000ded44a594db7641050686
-Discovery Asia TW,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641383e2000df6c4a59521c82bec6fdc
-Love Nature,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64138508000471b7a5999bd702f428aa
-MTV LIVE my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641381a8000b2beaa58c6e90661462b5
-nickelodeon MUSIC,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6462700200081b15d9dd78b270197060
-Nick Music,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6462701400067a04d9ddbe98570c53f1
-Music Choice,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682d3700017fbaf0488e0c4d515f97
-Music Choice - Rap 2K HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682d42000bb44ff048bba17fdc1687
-Music Choice - Hip-Hop R,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682d4f000c56e6f048ee933d4966de
-Music Choice - ALTERNATIVE,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682d6200079767f04937936ac935be
-MoviePlex FHD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682d6e000ead8df049684444cc6e25
-FUSION,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682d86000d9dd7f049c5be62a544dc
-INVESTMENT PITCH,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682d920000784af049f14136c47100
-MTV 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465b57200035a76e6a4b4fa39e03456
-MTV CLASSIC,http://A/ku9/j/ku9-169.js?id=6465b595000b11b4e6a53fac6b7c2eaa
-OUTDOOR CHANNEL,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465b5a0000c3aa7e6a56af0523416a8
-Nat Geo Wild USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fbc4e000ef087cf4fbd770b2c438b
+新加坡,#genre#
+Channel 5,http://smt.iktv.ddns-ip.net/Smart.php?id=Channel5HD
+Ch 5 backup,http://smt.iktv.ddns-ip.net/Smart.php?id=Ch5_mega
+Channel 8,http://smt.iktv.ddns-ip.net/Smart.php?id=Channel8HD
+Channel 8 backup,http://smt.iktv.ddns-ip.net/Smart.php?id=Ch8_mega
+Suria,http://smt.iktv.ddns-ip.net/Smart.php?id=Suria
+Suria backup,http://smt.iktv.ddns-ip.net/Smart.php?id=Suria_backup
+Channel U,http://smt.iktv.ddns-ip.net/Smart.php?id=ChannelU
+Channel U backup,http://smt.iktv.ddns-ip.net/Smart.php?id=ChU_mega
+Vasantham,http://smt.iktv.ddns-ip.net/Smart.php?id=Vasantham
+Vasantham backup,http://smt.iktv.ddns-ip.net/Smart.php?id=Vasantham_mega
+CNA backup,http://smt.iktv.ddns-ip.net/Smart.php?id=cna_twn
+MeWatch Ch 5,http://smt.iktv.ddns-ip.net/Smart.php?id=Mewatch_ch5
+MeWatch Ch 8,http://smt.iktv.ddns-ip.net/Smart.php?id=Mewatch_ch8
+MeWatch Ch U,http://smt.iktv.ddns-ip.net/Smart.php?id=Mewatch_chU
+MeWatch Suria,http://smt.iktv.ddns-ip.net/Smart.php?id=Mewatch_Suria
+MeWatch Vasantham,http://smt.iktv.ddns-ip.net/Smart.php?id=Mewatch_Vasantham
+MeWatch CNA,http://smt.iktv.ddns-ip.net/Smart.php?id=Mewatch_cna
 
-儿童焦点(电信网),#genre# 
-CINEMAX tw,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641380160003b61ca5864a4e3d49763a
-Cinemax my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413802a000969a0a58699e441aa3320
-Animax my,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413803e00077f23a586e786585056af
-Animax tw,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6413807500012fe3a587bcbf2e6b7388
-Disney Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d446e0000b7480a2c972727bb7b01
-Disney Junior,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d447f000958c70a2cdbc45c491a3c
-Disney XD HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d449000005ce40a2d1be045a92dbb
-Nick Jr,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d449d000ac1ec0a2d5151582b3dea
-Cartoon Network,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d44aa0000eb420a2d81945bea5d17
-Nickelodeon,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d44b90006faed0a2dbdba7c9816e4
-Cbeebies,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d44c8000478d70a2df7ad172b5de0
-Boomerang,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642d44d600008f5f0a2e2d5d69c27e63
-FXX HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb78600098f61cf3d0ed1150f614a
-Starz Kids,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb26f00087cd0cf292cbc765a234c
-Freeform HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa4da00021d24cef41d12518274a7
-Baby TV USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa0cf000dc95ccee45512712a51fd
-Cartoon Network USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fbdca000b25b2cf5588e126f826a4
-Bloomberg TV FHD USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa7390000e0fecefd5fdc5a4226a4
-Astro 小太阳 Xiaotaiyang,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64124cfa00001c82a0d6a40858217ea4
+体育运动,#genre#
+Astro EPL 1 backup,http://smt.iktv.ddns-ip.net/Smart.php?id=go_assp1x
+Astro Sports Plus,http://smt.iktv.ddns-ip.net/Smart.php?id=go_sportsplus
+Astro Badminton 1,http://smt.iktv.ddns-ip.net/Smart.php?id=go_badminton1
+Astro Badminton 2,http://smt.iktv.ddns-ip.net/Smart.php?id=go_badminton2
+Euro Cup,http://smt.iktv.ddns-ip.net/Smart.php?id=Anzhoubei
+Supersports 1,http://smt.iktv.ddns-ip.net/Smart.php?id=Assp1
+Supersports 1 backup,http://smt.iktv.ddns-ip.net/Smart.php?id=go_assp1
+Supersportq 1 backup2,http://smt.iktv.ddns-ip.net/Smart.php?id=Assp1_mega
+Supersports 2,http://smt.iktv.ddns-ip.net/Smart.php?id=Assp2
+Supersports 2 backup,http://smt.iktv.ddns-ip.net/Smart.php?id=go_assp2
+Supersports 3,http://smt.iktv.ddns-ip.net/Smart.php?id=Assp3
+Supersports 3 backup,http://smt.iktv.ddns-ip.net/Smart.php?id=go_assp3
+Supersports 3 backup2,http://smt.iktv.ddns-ip.net/Smart.php?id=Assp3_mega
+Supersports 4,http://smt.iktv.ddns-ip.net/Smart.php?id=Assp4
+Supersports 4,http://smt.iktv.ddns-ip.net/Smart.php?id=Assp4_mega
+Supersports 4 backup,http://smt.iktv.ddns-ip.net/Smart.php?id=go_assp4
+Bein 2HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Beinhd
+Supersports 5,http://smt.iktv.ddns-ip.net/Smart.php?id=go_assp5
+Beinsports HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Besports
+Champion 5 EPL,http://smt.iktv.ddns-ip.net/Smart.php?id=Champion5epl
+WWE,http://smt.iktv.ddns-ip.net/Smart.php?id=Wwe
+Champion 6 EPL,http://smt.iktv.ddns-ip.net/Smart.php?id=Champion6epl
+UFC Network,http://smt.iktv.ddns-ip.net/Smart.php?id=ufc_mega
+NBA TV,http://smt.iktv.ddns-ip.net/Smart.php?id=Nba
+NBA TV,http://smt.iktv.ddns-ip.net/Smart.php?id=nbatv_twn
+Astro Cricket,http://smt.iktv.ddns-ip.net/Smart.php?id=Acricket
+Astro Cricket,http://smt.iktv.ddns-ip.net/Smart.php?id=Acricket_mega
+Astro Golf,http://smt.iktv.ddns-ip.net/Smart.php?id=Agolf
+TNT Sports 1,http://smt.iktv.ddns-ip.net/Smart.php?id=beeone
+TNT Sports 2,http://smt.iktv.ddns-ip.net/Smart.php?id=beetwo
+TNT Sports 3,http://smt.iktv.ddns-ip.net/Smart.php?id=beethree
+TNT Sports 4,http://smt.iktv.ddns-ip.net/Smart.php?id=beefour
+Tnt Sports 1,http://smt.iktv.ddns-ip.net/Smart.php?id=6fac0aaead
+TNT Sports 2,http://smt.iktv.ddns-ip.net/Smart.php?id=d9a76a79cc
+TNT Sports 3,http://smt.iktv.ddns-ip.net/Smart.php?id=5fea4d73db
+TNT Sports 4,http://smt.iktv.ddns-ip.net/Smart.php?id=tntsport4
+Sony Ten 1,http://smt.iktv.ddns-ip.net/Smart.php?id=ten1_raj
+Sony Ten 2,http://smt.iktv.ddns-ip.net/Smart.php?id=ten2_raj
+Sony Ten 3,http://smt.iktv.ddns-ip.net/Smart.php?id=ten3_raj
+SPOTV 1 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=go_spotv
+SPO TV 2,http://smt.iktv.ddns-ip.net/Smart.php?id=go_spotv2
+Skysports Arena,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankongarena
+Skysports F1,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankongf1
+Skysports Cricket,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankongcricket
+Skysports EPL,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankongepl
+Skysports Football,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankongfootball
+Skysports Golf,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankonggolf
+Skysports Main Event,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankongmain
+Skysports News,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankongnews
+Skysports NFL,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankongnfl
+Skysports Racing,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankongracing
+Skysports Mix,http://smt.iktv.ddns-ip.net/Smart.php?id=tiankongmix
+爱尔达体育1,http://smt.iktv.ddns-ip.net/Smart.php?id=eltasport_twn
+爱尔达体育2,http://smt.iktv.ddns-ip.net/Smart.php?id=eltasport2_twn
+爱尔达体育3,http://smt.iktv.ddns-ip.net/Smart.php?id=eltasport3_twn
 
-加拿大焦点(电信网),#genre# 
-AMC,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa0880000ff6ecee33c7463b220d0
-A and E,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fbe610002b43acf57d49031e80df5
-ABC FHD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa8c300060753cf0364303f9473bc
-ABC NEW,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa09900060edccee3802872e62015
-ACC Network,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa0a900079278cee3bf0b280d2e46
-Antenna TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa0b60003ec2fcee3f0e4434a1a1c
-AWE HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa0c3000a4546cee4254c0c1b3458
-BET JAMZ,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa0e3000c95afcee4a2e442e97f8e
-BET SOUL HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa0ef00020e73cee4cf1267106d1b
-CBS HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa0fc000c368bcee504737bad766c
-COZI TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa10800007e9ecee5305334f57fb6
-Destination,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa4610004d3a0cef2451b7e2d1bac
-Discovery Channel HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa46f000ba059cef27d895bab7408
-Discovery Science HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa47c000db090cef2b0d8035c3193
-Fox Soccer PlUS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa495000c20bccef3121a77156b7a
-Fox Sport 1 HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa4c30008dd1dcef3c4f45c32522d
-Fox Sports 2 HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa4cf000dced2cef3f51864cd1199
-Sony Ten 2 HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa6f00002e5aecefc43384fa34344
-FXM HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa6fc00062cd4cefc72ef62d6413b
-Fyi,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa707000d8628cefc9fc95c280828
-OXYGEN,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa712000c8aabcefcca800bb55332
-Reelz HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa71f00032de1cefcfae33bf24387
-BET 4K,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa744000d3a03cefd8dfd6d5e403b
-HSN HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa75100073259cefdbf3a34c47b49
-BET Jams,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa8d500001d62cf03a8fc59437831
-Bounce TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa8e30006ea1bcf03e16a5bc93976
-Buzzr,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa8ee000d4fafcf040e051b616f97
-CBS Sports Network HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa8fa00080514cf043b8b1b77368c
-Cheddar,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa9130009ca60cf049da73c631b33
-CINEMAX LATINO,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa937000e6330cf052b7426d66c5d
-Discovery Family,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa94600088bf9cf05648d374a43f3
-Discovery Life,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fa9510007cd6ccf058f551a7f5fad
-E!,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fab07000aed4ecf0c3f1353ef26e9
-EPIX,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fab1400052294cf0c7060144638c8
-GREAT AMERICAN COUNTRY (GAC),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fab67000d95a7cf0db6c273b64d58
-Hallmark Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fab73000887fccf0de4571c041330
-HALLMARK DRAMA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fab800008b0b2cf0e172919c30206
-HGTV HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645faf620008f794cf1d421031440484
-HLN,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645faf6d000c81e8cf1d6df010bc2957
-Hunt Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645faf81000872fbcf1dbb061b22733d
-IFC,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645faf8c0001471dcf1de4297e546134
-INSP,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645faf97000d6332cf1e123a66905eb1
-Starz,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb2230008e9abcf2803f86356448a
-STARZ EDGE HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb23a000cdfe3cf285ed44176742b
-Starz Encore Classic,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb252000ee85ecf28bd190f9a0ab2
-Starz in Black,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb25e000bff23cf28eb3a514e0515
-STARZ East HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb27a00083823cf2957a31eac7185
-TASTEMADE,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb28a000ebb70cf2997ce41cc3736
-Telemundo (Las Vegas) KBLR,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb6aa000067adcf39b11820ab16d1
-The Cowboy Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb6c60003c4cfcf3a1f5556c03ff1
-THE WORD NET42567ORK,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb711000a4563cf3b45f720ec1bde
-TNT HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb72500067366cf3b931d54194f25
-VH1 HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fb7790002bc69cf3cda4a555c4b28
-American Heroes Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fbbb90002dce0cf4d74571fc73678
-Animal Planet,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fbbb90001ac30cf4d74094f410ac9
-Boomerang,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fbbb8000d5c60cf4d731f793375f9
-Bravo,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fbbb7000ed03ecf4d6f965eef3fe5
-Court TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fbbb70008dccdcf4d6e107b5c1b8f
-Nat Geo,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fbc5a000d37fccf4febe77c8856bb
-nickelodeon TOONS HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=645fbc7000073512cf50404d40471c58
-NICK JR,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=646270f7000efc24d9e1377e6e776138
-TCM,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=646271c6000aa69fd9e45efb74141bfe
-TBS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64626ffc000b95aad9dd622652330147
-DIY Network,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64627016000985b8d9ddc72f70d00e9e
-Dog TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6462702f000f1a04d9de2a4569c51756
-E! Entertainment,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a9740001391ddea5dc3e432509a2
-Syfy,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a98300033cd8dea6175a59d77cab
-Syfy East HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a9a00000a04bdea687f71d762dd5
-Starz Encore Suspense,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a9c40007d76bdea716705bdc07cf
-Starz Encore Westerners,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463a9eb00075dcfdea7aea918277655
-CMC USA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463af990004c1a9debdddb529d477dc
-History,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463afa5000ae40edebe0e274b9f668b
-History 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463afb1000d7464debe3daf571548ff
-H2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463afbe000d9d1bdebe70825c5a097a
-Longhorn Network,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463afcd00065844debea93d00cc790a
-TLC,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463afd90007b7e9debed8772a126a6b
-EPIX Hits,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463afe700066cc2debf0ed300a64c66
-Fuse,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463aff3000eb398debf3fd11dad2ee9
-MSNBC,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6463b01500091c93debfc3337c9a0e9c
-Smithsonian Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465a79d00097d7be66eae831da34d70
-Showtime 2 4K+,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465a7b1000c18cee66efd4e762372f9
-Showtime Family Zone,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465a7bf0005cdf6e66f326272d24e9f
-Showtime Showcase,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465a7cc0000033ce66f63ae51f40777
-Showtime NEXT,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465a7d700062be0e66f903a66377362
-Showtime Woman,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465a7e4000248a7e66fc203775c31a0
-Al Jazeera,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465a7ef000203fae66fecea78625081
-The Weather Channel,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465a7fb0004575fe6701c626deb47fd
-BET,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465abd00001206ae67f139c230c5814
-MOTOR TREND,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465abd00001206ae67f139c764a6ace
-FREE SPEECH TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465abd00000e37ae67f138c292320b2
-RT AMERICA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465ac2800084395e6806d30799b0f28
-ASPIRE TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465ac44000f32c7e680dc572130539e
-CHARGE!,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465b54500006776e6a404702c326fa0
-DABL,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465b5500000d99ae6a42f8608ee0231
-GET TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465b55a000b146ce6a4593440485387
-HEROES,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465b5660008e201e6a4878406bc226b
-OUTSIDE TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465b5b40006443ae6a5b78954da1b38
-OVATION,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465c0d70008633ae6d138ca65746d56
-WN,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465c0e300040c5ee6d1668d39922d8b
-PARAMOUNT NETWORK,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465c0f300032e9ae6d1a4d574ed2855
-PBS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465c0fe0007acaee6d1d0f3686a31ca
-POP,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465c12700085746e6d271474f017d4a
-POP TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465c131000b3108e6d2991278326004
-QVC,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465c13e00028b0ee6d2c9a339d47db8
-QVC UHD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465c1480004ae00e6d2f13f4ba531c7
-RFD-TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=6465c15c000524e3e6d33f7e534b3a92
-TRU TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682b2c00003594f04092bd64972b7e
-TRU-TV UHD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682b36000c1af7f040bcd964be2353
-TV LAND,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682b43000743fdf040ee6460c377b4
-TV LAND UHD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682b500000c273f0411f8157394a34
-WAPA AMERICA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682b5a000a8366f04149101c5d5e77
-WE TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682b6500031a98f041722362770d0d
-WE TV UHD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682b70000e7fddf041a006314532d9
-WE TV+,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682b85000a2dc1f041f0f3612c3741
-WGN AMERICA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682b90000a9fe5f0421c083ebb6528
-UNIVERSAL KIDS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682b9c000e9ddaf0424bee25af494e
-CINEMAX MOREMAX,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682c13000f0c0bf0441ce2648a038d
-HDNET MOVIES,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682c1e000d1ccef044475c44c04e88
-OUTERMAX,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682c2b000d0895f0447a1f32971abf
-RETROPLEX,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682c38000edbdcf044ad5e53c1581a
-BALLY SPORTS ARIZONA PLUS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682c4400013c70f044d8c23c785ebb
-BALLY SPORTS GREAT LAKES,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682c4f000040f3f04503797ca74a7c
-NBCSN BAY AREA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682c5c000b99bbf045392909a95b04
-PAC 12 ARIZONA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682c710005232ff045898938b03550
-PAC 12 OREGON,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682c7d00058f14f045b8853740102a
-WORLD FISHING NETWORK,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682c8800058758f045e37b153f0f08
-US Crime Investigation FHD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682d1f000dbf82f048336f50b15164
-UNIMAS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682d2c00014a87f048630660eb6f89
-CCX,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64682d9d0007d19ef04a1e1b33280293
+Bein 1 Sports,http://smt.iktv.ddns-ip.net/Smart.php?id=bein1_mega
+Bein 2 Sports,http://smt.iktv.ddns-ip.net/Smart.php?id=bein2_mega
+Bein 3 Sports,http://smt.iktv.ddns-ip.net/Smart.php?id=bein3_mega
+Bein 4 Sports,http://smt.iktv.ddns-ip.net/Smart.php?id=bein4_mega
+Bein 5 Sports,http://smt.iktv.ddns-ip.net/Smart.php?id=bein5_mega
+Bein 6 Sports,http://smt.iktv.ddns-ip.net/Smart.php?id=bein6_mega
+Bein 7 Sports,http://smt.iktv.ddns-ip.net/Smart.php?id=bein7_mega
+Rugby Pass TV,http://smt.iktv.ddns-ip.net/Smart.php?id=Rugbypasstv
+Astro Beinsports 1,http://smt.iktv.ddns-ip.net/Smart.php?id=Astrobein1
+Astro Beinsports 2,http://smt.iktv.ddns-ip.net/Smart.php?id=Astrobein2
+Astro Beinsports 3,http://smt.iktv.ddns-ip.net/Smart.php?id=Astrobein3
 
-日本焦点(电信网),#genre# 
-AT-X HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a21dd00026e59bf6e022f53082a9d
-BS-TBS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a21cd0004b9bdbf6dc4467ff766ad
-BSジャパン,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a21bb000df8cfbf6d8054551233ec
-BSフジ JP,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a21a300048f44bf6d202b4d0f24f8
-BS朝日,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a218a000306e8bf6cbe1e2f2d16b2
-BS日テレ,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a217600019c44bf6c6fa138a21c99
-BS钓りビジョン,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a216000016ecebf6c19a57bf53ac9
-GAORA,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a214b0000fe29bf6bc7805d3c5203
-GREEN,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a21390000f4a9bf6b812e34f8645a
-IMAGICA BS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a21220008a862bf6b294f71a24d01
-J SPORTS 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a20d7000988debf6a04905a174f61
-J SPORTS 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a20ba000cdc3bbf69942274820099
-J SPORTS 3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a20a200018b30bf69337c51750a0c
-J SPORTS 4,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a208100012886bf68b27a61ba4329
-MBS毎日放送,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a2069000e98fdbf68582b0b3029ec
-BS1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a204b000cf2e8bf67e28f510e10b9
-BSプレミアム,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a203600052133bf678e867cf478d6
-NHK-Eテレ,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a202100034f6cbf673c04601341f8
-NHKEテレ,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a20060005df7dbf66d334679e719d
-NHK総合,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1ff10002ac95bf6680630445195d
-NHK総合大阪,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1fd60004c2c5bf66177416044be5
-TBSニュース,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1fab000bc2abbf6571465e4f1f93
-TOKYO MX,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1f8c00078484bf64f71811583488
-WOWOW,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1f78000bd061bf64aa1101192b43
-WOWOWシネマ,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1f6700073ad3bf64667d3a825541
-WOWOWライブ,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1f510005dcacbf64103357d547ba
-アニマックス,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1f4000032e9ebf63cd1b65372d2e
-アニマルプラネット,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1f29000a23b6bf63750d35b93e5f
-カートゥーンネットワーク,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1f0e0002f156bf6309be3c492f0c
-キッズステーションHD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1e87000ca97abf60fce276b25423
-ゴルフネットワーク,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1e5c0009e306bf605435191f2182
-サンテレビ,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1e490008ec04bf6009be7df5348e
-スカイ A sports,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1e3400024affbf5fb60300fa762f
-スターチャンネル 1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1dee000a3065bf5ea698467626f0
-スターチャンネル 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1dd900025eafbf5e5290514069b6
-スターチャンネル 3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1dc0000243f3bf5df0e17ac0501d
-ディズニージュニア,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1d9e000af328bf5d6e4a4e1b5c10
-ディズニーチャンネル,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1d880007ad81bf5d1783598709ed
-テレビ朝日,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1d6d000e8673bf5cafcc47cf6f73
-テレビ大阪,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1d550007f828bf5c505e1c7a528c
-テレビ东京,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1d4200096286bf5c06837a157907
-ファミリー剧场,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1d2e000d7174bf5bb96c78257de0
-フジテレビ,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1d170002940abf5b5ccc37d040a1
-ホームドラマ,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1d01000d430bbf5b099e7240530d
-东映チャンネル,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1963000edde0bf4ce8d56b1505da
-読売テレビ JP,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a194e0008b6bbbf4c953a4cf62695
-関西テレビ,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a193f0005fc30bf4c59ef67c95a11
-日テレG JP,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a191f000edbd9bf4bdf345ae13f0f
-卫星剧场 JP,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a18b90000c5aabf4a4d231be33905
-日本テレビ JP,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a190f000d952dbf4ba061442b10e3
+新闻,#genre#
+Skynews,http://smt.iktv.ddns-ip.net/Smart.php?id=skynews_antik
+ABC News,http://smt.iktv.ddns-ip.net/Smart.php?id=abcnews_glo
+CBS HD,http://smt.iktv.ddns-ip.net/Smart.php?id=cbshd_glo
+CBSN HD,http://smt.iktv.ddns-ip.net/Smart.php?id=cbsn_glo
+France 24,http://smt.iktv.ddns-ip.net/Smart.php?id=france24_twn
+DW (Deutsch),http://smt.iktv.ddns-ip.net/Smart.php?id=dw_twn
+NHK World,http://smt.iktv.ddns-ip.net/Smart.php?id=nhkworld_japan
+Fox News,http://smt.iktv.ddns-ip.net/Smart.php?id=foxnews_twn
+CNN International,http://smt.iktv.ddns-ip.net/Smart.php?id=Cnn
 
-韩国焦点(电信网),#genre# 
-kbs1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=649439cb000d62089c5890a32129087b
-kbs2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a15a2000811adbf3e3d2b2cdc5763
-sbs,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a15bb00049a59bf3e9df0020d319e
-mbc,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a15dd00040304bf3f229a0cc75cb1
-mbn,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a160400031b41bf3fbab42d6a0090
-jtbc,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1615000b05f0bf3fff2226b2202b
-tvn,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a163c000a4f64bf40974c0cad0cce
-CHANNEL A,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1654000f331fbf40f64c1e7b0135
-INET,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a166900019872bf4144d921bf2acd
-YTN,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a167d000a6426bf41953a1298264b
-OCN,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a169000080607bf41ded6287c1634
-OCN movies,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a16a3000dbfc9bf422a860622246a
-Disney???,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a16b700065bbcbf4276c121e67572
-MBC Drama,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a16ca0002ccedbf42c010275c2770
-MBC???,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a16dd00097a6fbf430bfe2c7f5e99
-CTS Onstyle,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a16f60006f6dabf436d0104342620
-TV??,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a170d00090593bf43c7603c7831ea
-CBS,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a174a0004ee56bf44b49c077c07d1
-SPOTV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a175c000571b5bf44fb0d1f291038
-SPOTV 2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a162a00091534bf4050ab7d5940fb
-KBS???,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a177400036e3fbf4558494fd13999
-MNET,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a178900000fe4bf45a9753b4c1a1d
-SBS plus,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a17b200050b2cbf464ae169a83ce6
-OCN thrills,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a17c6000675d0bf46995e33067f1b
-韩国TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a17d8000a8b40bf46e0ba276c0477
-SBS Sportss,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a1807000e2893bf47993f54057b7f
-SBS Goif,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a181900011a81bf47dc38661e214f
-jttc GOIF,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a183c000cddb0bf4867f37b157f23
+电影&纪录,#genre#
+TLC,http://smt.iktv.ddns-ip.net/Smart.php?id=Tlc
+EYE旅游,http://smt.iktv.ddns-ip.net/Smart.php?id=eyetvtravel_twn
+旅游生活,http://smt.iktv.ddns-ip.net/Smart.php?id=tlc_twn
+亚洲旅游,http://smt.iktv.ddns-ip.net/Smart.php?id=asiatravel_twn
+亚洲美食,http://smt.iktv.ddns-ip.net/Smart.php?id=afc_twn
+美食星球,http://smt.iktv.ddns-ip.net/Smart.php?id=foodplanet_twn
+博斯网球,http://smt.iktv.ddns-ip.net/Smart.php?id=bositennis_twn
+博斯无限,http://smt.iktv.ddns-ip.net/Smart.php?id=bosiunlimited_twn
+博斯运动1,http://smt.iktv.ddns-ip.net/Smart.php?id=bosisport1_twn
+博斯高球1,http://smt.iktv.ddns-ip.net/Smart.php?id=bosigolf1_twn
+博斯高球2,http://smt.iktv.ddns-ip.net/Smart.php?id=bosigolf2_twn
+博斯运动2,http://smt.iktv.ddns-ip.net/Smart.php?id=bosisport2_twn
+EYETV戏剧,http://smt.iktv.ddns-ip.net/Smart.php?id=eyetvxiju_twn
+EYETV旅游,http://smt.iktv.ddns-ip.net/Smart.php?id=?id=eyetvtravel_twn
+电影 Now HD,http://smt.iktv.ddns-ip.net/Smart.php?id=moviesnow_raj
+HBO Family,http://smt.iktv.ddns-ip.net/Smart.php?id=Hbofamily
+Natgeo_HD,http://smt.iktv.ddns-ip.net/Smart.php?id=natgeohd_twn
+野生动物 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=natgeowild_twn
+动物星球1,http://smt.iktv.ddns-ip.net/Smart.php?id=animalplanet_twn
+探索亚洲,http://smt.iktv.ddns-ip.net/Smart.php?id=discoverytwn_twn
+CI,http://smt.iktv.ddns-ip.net/Smart.php?id=ci_twn
+探索星球 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=discoveryhd_twn
+探索星球,http://smt.iktv.ddns-ip.net/Smart.php?id=ba86fcd935
+探索,http://smt.iktv.ddns-ip.net/Smart.php?id=discoverych_twn
+NatGeo HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Natgeo
+Fashion TV,http://smt.iktv.ddns-ip.net/Smart.php?id=fashiontv_twn
 
-印尼焦点(电信网),#genre# 
-INDOSIAR(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325c920009f49e1e12e62970e9411d
-INDOSIAR(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325ca1000e59b91e1321e1655455dc
-INDOSIAR(c),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325cae00016ade1e13515914857bcf
-RCTI,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325cc00007a4bf1e1399412c041430
-RCTI (b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325ccd0005a9051e13cb886ca025d4
-SCTV (a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325cd7000a6a471e13f3cf797b77ae
-SCTV (b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325cec000c0b9c1e14464232a459fa
-Trans 7(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325cf8000184601e14727058473f7a
-Trans 7(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325d02000f14531e149cf91e2b4a64
-Trans TV(a),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325d1500049e541e14e484778b09d0
-Trans TV(b),http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325d22000a03ab1e1518ad68f369df
-MNC TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325d89000a1ef01e16ab0d0116737b
-GTV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325d9b000065fe1e16eee045a2450d
-ANTV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325daa00085d2a1e172b823f0d3d42
-TV One,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325dba000ea3871e176b9d799a27f5
-Metro TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325dcd000c82581e17b54a148e3a60
-TVRI,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325dfe000195cd1e1871e46c0023fb
-Berita Satu,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325e0a000832121e18a2755ebf1868
-iNews,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325e16000b79381e18d22c48cc7cca
-JakTV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325e8800059d381e1a8dfc7d6d271d
-JTV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325e9700081ad21e1ac9372497268d
-Net TV,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325eaf0004e6ac1e1b26250ea14ef8
-TVMu,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325eba00051bdf1e1b512b247746bc
-EWTN,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325ec5000cef141e1b7e242f5e7157
-Entertainment,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325edb000004f91e1bd0c550bc67ad
-MNC Shop Smart,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325f0100000b7b1e1c65377ae07d02
-Ochannel Discovery Asia,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64325f260007794d1e1cf7a65c7207d1
+BBC Earth HD,http://smt.iktv.ddns-ip.net/Smart.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://smt.iktv.ddns-ip.net/Smart.php?id=bbclifestyle_twn
+Animal Planet (Eng),http://smt.iktv.ddns-ip.net/Smart.php?id=AnimalPlanet
 
+印度尼西亚,#genre#
+TVRI National,http://smt.iktv.ddns-ip.net/Smart.php?id=TVRI
+RCTI,http://smt.iktv.ddns-ip.net/Smart.php?id=Rcti
+Kompass TV,http://smt.iktv.ddns-ip.net/Smart.php?id=Kompass
+Berita Satu,http://smt.iktv.ddns-ip.net/Smart.php?id=BeritaSatu_eko
+Indosiar HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Indosiar
+AnTV,http://smt.iktv.ddns-ip.net/Smart.php?id=Antv
+MNC TV,http://smt.iktv.ddns-ip.net/Smart.php?id=Mnctv
+Trans 7,http://smt.iktv.ddns-ip.net/Smart.php?id=Trans7_eko
+Transtv,http://smt.iktv.ddns-ip.net/Smart.php?id=Transtv
+JTV,http://smt.iktv.ddns-ip.net/Smart.php?id=JTV_eko
+Metro TV,http://smt.iktv.ddns-ip.net/Smart.php?id=metrotv_eko
+Cinemax,http://smt.iktv.ddns-ip.net/Smart.php?id=Cinemax
+SCTV,http://smt.iktv.ddns-ip.net/Smart.php?id=SCTV
+Tvone,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvone
+TVMU,http://smt.iktv.ddns-ip.net/Smart.php?id=TVMU_eko
+GTV,http://smt.iktv.ddns-ip.net/Smart.php?id=Gtv
+RTV,http://smt.iktv.ddns-ip.net/Smart.php?id=Rtv
+Jak TV,http://smt.iktv.ddns-ip.net/Smart.php?id=JakTV
+iNews TV,http://smt.iktv.ddns-ip.net/Smart.php?id=Inewstv
+Daai TV,http://smt.iktv.ddns-ip.net/Smart.php?id=DaaiTV
+Net TV,http://smt.iktv.ddns-ip.net/Smart.php?id=NetTV
+Animax,http://smt.iktv.ddns-ip.net/Smart.php?id=Animax
+Baby TV Eng,http://smt.iktv.ddns-ip.net/Smart.php?id=Babytv
+EWTN,http://smt.iktv.ddns-ip.net/Smart.php?id=Ewtn
+AlQuran AlKareem,http://smt.iktv.ddns-ip.net/Smart.php?id=AlQuran
+Tawaf TV,http://smt.iktv.ddns-ip.net/Smart.php?id=TawafTV
+Vision Prime,http://smt.iktv.ddns-ip.net/Smart.php?id=VisionPrime
+Muslim TV,http://smt.iktv.ddns-ip.net/Smart.php?id=MuslimTV
+Music TV,http://smt.iktv.ddns-ip.net/Smart.php?id=MusicTV
+Lifestyle&Fashion,http://smt.iktv.ddns-ip.net/Smart.php?id=Lifestyle
+Entertain,http://smt.iktv.ddns-ip.net/Smart.php?id=Entertain
+Hits,http://smt.iktv.ddns-ip.net/Smart.php?id=Hits
+Warner TV,http://smt.iktv.ddns-ip.net/Smart.php?id=WarnerTV
+SCM,http://smt.iktv.ddns-ip.net/Smart.php?id=Weishimovie
+Thrill,http://smt.iktv.ddns-ip.net/Smart.php?id=Thrill
+Fight Sports,http://smt.iktv.ddns-ip.net/Smart.php?id=Fs
+Beinsports 2 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Bein2hd
+Hits Movie,http://smt.iktv.ddns-ip.net/Smart.php?id=Hitsmovie
+天映频道 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Celestialindo
 
+印度,#genre#
+Sun TV HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Suntv
+Star Vijay,http://smt.iktv.ddns-ip.net/Smart.php?id=Starvijay
+Colors Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=Colorstam_mega
+Colors Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=Colorstam
+Astro Sunlife,http://smt.iktv.ddns-ip.net/Smart.php?id=Sunlife
+Astro Vaanavil,http://smt.iktv.ddns-ip.net/Smart.php?id=Vaanavil
+Zee Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=Zeetamil
+Zee Business,http://smt.iktv.ddns-ip.net/Smart.php?id=Zeebusiness
+News 18 Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=news18tamil_raj
+Adithya,http://smt.iktv.ddns-ip.net/Smart.php?id=Adithya
+Thanthi TV,http://smt.iktv.ddns-ip.net/Smart.php?id=thanthitv
+Makkal TV,http://smt.iktv.ddns-ip.net/Smart.php?id=Makkaltv
+Zee Action,http://smt.iktv.ddns-ip.net/Smart.php?id=Zeeaction
+Astro KTV,http://smt.iktv.ddns-ip.net/Smart.php?id=Astroktv
+KTV UK,http://smt.iktv.ddns-ip.net/Smart.php?id=ktvuk_tamil
+Zee TV HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Zeetvhd
+Zee Cinema HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Zeecinemahd
+Color HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Colorhd
+Starplus HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Starplushd
+Picture HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Npicture
+Zee News,http://smt.iktv.ddns-ip.net/Smart.php?id=Zeenews
+Asianet,http://smt.iktv.ddns-ip.net/Smart.php?id=asianet_raj
+Asianet News,http://smt.iktv.ddns-ip.net/Smart.php?id=asianetnews_raj
+Times Now,http://smt.iktv.ddns-ip.net/Smart.php?id=timesnow_mega
+BBC Earth Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=bbcearthtam_raj
+Discovery World Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=discoveryworldtam_raj
+NatGeo Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=natgeotamil_raj
+地理野生,http://smt.iktv.ddns-ip.net/Smart.php?id=natgeowildtamil_raj
+Cartoon Network Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=cntamil_raj
+Discovery Kids Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=discoverykidtamil_raj
+Discovery Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=discoverytamil_raj
+Sony Yay Tamil,http://smt.iktv.ddns-ip.net/Smart.php?id=sonyyaytam_raj
+Sun TV India,http://smt.iktv.ddns-ip.net/Smart.php?id=suntv_raj
+Starmaa HD,http://smt.iktv.ddns-ip.net/Smart.php?id=starmaa_raj
+Starmaa Movies HD,http://smt.iktv.ddns-ip.net/Smart.php?id=starmaamovies_raj
+Bollyone,http://smt.iktv.ddns-ip.net/Smart.php?id=Bollyone
+Astro Sunmusic,http://smt.iktv.ddns-ip.net/Smart.php?id=Sunmusic
+Sony Pix HD,http://smt.iktv.ddns-ip.net/Smart.php?id=sonypix_mega
+Vijay Super,http://smt.iktv.ddns-ip.net/Smart.php?id=vijaysuper_raj
+Vellithirai,http://smt.iktv.ddns-ip.net/Smart.php?id=Vellithirai
 
+泰国,#genre#
+Channel 3 Thailand,http://smt.iktv.ddns-ip.net/Smart.php?id=ch3_pat
+Channel 5 Thailand,http://smt.iktv.ddns-ip.net/Smart.php?id=ch5_pat
+Channel 7 Thailand,http://smt.iktv.ddns-ip.net/Smart.php?id=ch7_pat
+MCOT HD Thailand-1,http://smt.iktv.ddns-ip.net/Smart.php?id=mcot_pat
+PPTV Thailand1,http://smt.iktv.ddns-ip.net/Smart.php?id=pptv_pat
+Thai Thai,http://smt.iktv.ddns-ip.net/Smart.php?id=thaithai_pat
+Amarin,http://smt.iktv.ddns-ip.net/Smart.php?id=amarin_pat
+Ch 8,http://smt.iktv.ddns-ip.net/Smart.php?id=ch8_pat
+GmmOne,http://smt.iktv.ddns-ip.net/Smart.php?id=gmmone_pat
+Mono,http://smt.iktv.ddns-ip.net/Smart.php?id=mono_pat
+Thairath,http://smt.iktv.ddns-ip.net/Smart.php?id=thairath_pat
+tpbs,http://smt.iktv.ddns-ip.net/Smart.php?id=tpbs_pat
+Workpoint,http://smt.iktv.ddns-ip.net/Smart.php?id=workpoint_pat
+Gmm Channel,http://smt.iktv.ddns-ip.net/Smart.php?id=gmmchannel_pat
+Nation,http://smt.iktv.ddns-ip.net/Smart.php?id=nation_pat
+Tnn24,http://smt.iktv.ddns-ip.net/Smart.php?id=tnn24_pat
+Nbt,http://smt.iktv.ddns-ip.net/Smart.php?id=nbt_pat
+New,http://smt.iktv.ddns-ip.net/Smart.php?id=new_pat
+TPTV,http://smt.iktv.ddns-ip.net/Smart.php?id=tptv_pat
 
+越南,#genre#
+ANTV,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_antv
+VTV 1,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_vtv1
+VTV 7,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_vtv7
+HTV 7,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_htv7
+HTV 9,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_htv9
+BPTV 2,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_bptv2
+BRT HD,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_brt
+Ca Mau TV,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_camautv
+Danang TV1 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_danangtv1
+Danang TV2 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_danangtv2
+HBTV HD,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_hbtv
+PTTH 1,http://smt.iktv.ddns-ip.net/Smart.php?id=viet_ptth1
 
+英国,#genre#
+BBC 1,http://smt.iktv.ddns-ip.net/Smart.php?id=bbc1_antik
+BBC 2,http://smt.iktv.ddns-ip.net/Smart.php?id=bbc2_antik
+CBBC,http://smt.iktv.ddns-ip.net/Smart.php?id=cbbc_antik
+More4,http://smt.iktv.ddns-ip.net/Smart.php?id=more4_antik
+Freesports,http://smt.iktv.ddns-ip.net/Smart.php?id=freesports_antik
+Skynews,http://smt.iktv.ddns-ip.net/Smart.php?id=skynews_twn
+Pick TV,http://smt.iktv.ddns-ip.net/Smart.php?id=picktv_antik
+itv 1,http://smt.iktv.ddns-ip.net/Smart.php?id=itv1_antik
+itv 2,http://smt.iktv.ddns-ip.net/Smart.php?id=itv2_antik
+Euronews,http://smt.iktv.ddns-ip.net/Smart.php?id=euronews_antik
+Channel 4,http://smt.iktv.ddns-ip.net/Smart.php?id=channel4_antik
+Momo TV,http://smt.iktv.ddns-ip.net/Smart.php?id=momo1_twn
+CBeebies,http://smt.iktv.ddns-ip.net/Smart.php?id=Cbeebies
+History,http://smt.iktv.ddns-ip.net/Smart.php?id=History
+Kids TV,http://smt.iktv.ddns-ip.net/Smart.php?id=KidsTV
+MTV Live,http://smt.iktv.ddns-ip.net/Smart.php?id=mtvhd_twn
+Star Movies HD,http://smt.iktv.ddns-ip.net/Smart.php?id=starmovies_raj
+CGTN,http://smt.iktv.ddns-ip.net/Smart.php?id=CGTN
 
-午夜焦点(电信网)_5500,#genre# 
-松視1台,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d9152500006cdc81f135cb76c835f6 
-松視2台,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=650b8a51000ac6568f1c30530c503d72 
-日本1台,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d91352000bd06981ea187c3e860eab
-日本2台,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d914e200083f8781f032144917503c
-HAPPY,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d915d3000cd82f81f3e0aa275b43e5
-彩虹K,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d91596000d614481f2f2851b8d52f8
-玩美台,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d9148f0005460581eeed1833181b3e
-ATV香蕉台,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d914540006796e81ee06ef239668a8
-ATV驚艷台,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d9141b0005020981ed27e63a0c188c
-极限台HOT,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d913ce00075ca281ebfbb857526361
-彩虹电影,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d9155d0007640f81f2125443793138
-粉紅台,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d916d6000cf48681f7d46b5af27764
-彩虹E,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=67d9169f000dd20681f6fdcb312c3ee1
-password=5500
+日本,#genre#
+NHK-総合-2,http://smt.iktv.ddns-ip.net/Smart.php?id=nhkg_japan
+NHK-E,http://smt.iktv.ddns-ip.net/Smart.php?id=nhke_japan
+テレビ朝日 Asahi TV,http://smt.iktv.ddns-ip.net/Smart.php?id=asahitv_japan
+JET 綜合,http://smt.iktv.ddns-ip.net/Smart.php?id=jettv_japan
+テレビ東京 Tokyo TV,http://smt.iktv.ddns-ip.net/Smart.php?id=tokyotv_japan
+TOKYOMX,http://smt.iktv.ddns-ip.net/Smart.php?id=tokyomx_japan
+NHKBS1,http://smt.iktv.ddns-ip.net/Smart.php?id=nhkbs1_japan
+NHKBSプレミア Premium,http://smt.iktv.ddns-ip.net/Smart.php?id=nhkpremium_japan
+BSジャパン 181,http://smt.iktv.ddns-ip.net/Smart.php?id=bs181_japan
+BSフジ BS Fuji,http://smt.iktv.ddns-ip.net/Smart.php?id=bsfuji_japan
+CNA Japan,http://smt.iktv.ddns-ip.net/Smart.php?id=cna_japan
+BS-TBS,http://smt.iktv.ddns-ip.net/Smart.php?id=bstbs_japan
+NHK Oaska,http://smt.iktv.ddns-ip.net/Smart.php?id=nhkosaka_japan
 
-日本中字1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7d1c000a26144c810f6c2a1b709b
-日本中字2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7d0d000bf15a4c80d54a58b706d0
-日本中字3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7cf60009a5b24c807adb63ff467e
-日本中字4,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7ce500041c634c80370861c068f7
-日本中字5,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7cd50001e1f74c7ff7f616ec1383
-日本中字6,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7cac00044f8f4c7f586d620130af
-日本中字7,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7c9c0008bf634c7f1b1060456297
-日本中字8,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7c83000e5b284c7ebad75f8e3361
-日本中字9,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7c7500015e0e4c7e80d46b241ea2
-日本中字10,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7c5c000d2a334c7e22315fb62b36
-日本中字11,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64fa7bf40004098c4c7c899b60d519f9
-21天然,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642316230005e319e267fc00076e6e77
-日本无码2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=642319860005a2bce275369f096d68b2
-日本无码3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231a180004ee7de27770c263dc6c5c
-日本无码5,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231a33000d8e7de277dc6f4f9a18e6
-热舞,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643f467d0007d02950843193582d157f
-探花1,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643f4a720003177e5093a56b35103bec
-探花2,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643f4689000560ce50845fd32f1e3642
-三级,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643f46e90005e4b65085d6f66e8430d7
-良家,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=643f46fa00003df4508617eb220234bd
-人妻,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64487f210008fc287489385479a92810
-欧美 HD 6，http：//A/ku9/JS/ku9-169. JS？token=yodo 9 JS yodo yodo 424765458&id=64231 A 8b 0002615 ee 2793152059606 bd
-欧美 HD 7，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS yodo yodo 424765458&id=64231 b 27000855 e 1 e 27 b 94397 bf 80 b 92
-欧美 crHD，http：//A/ku9/JS/ku9-169. JS？token=yoDo 9 JS yoAu 424765458&id=64231 eaa 000cc 687 e 2894 D 1 c 6445706 e
-欧美 cr 1HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS yoAu 424765458&id=641A 21 A 300048 f 44 bf 6 D 202 b 4 D 0 f 24 f 8
-欧美 cr 2HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9JS yoAu 424765458&id=64231 e 9 c 0007 A 45 ee 289151 c 0 c 8 f 60 ca
-欧美 cr 3 HD，http：//A/ku9/JS/ku9-169 JS？token=yoto 9 JS 424765458&id=64231 e 91000587 AAAe 288 e 99916 e 46 fdd
-欧美 cr 4HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS yoAu 424765458&id=64231 e 80007 ac 07 e 288 bf 3061103 b 0 D
-欧美 cr 5HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS yoAu 424765458&id=64231 e 73000047 b 5 e 2887313 14 ab 23 D 5
-欧美 cr 6 HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9JS yoAu 424765458&id=64231 e 6700099 e 41 e 28846973 df 74159
-欧美 cr 7 HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS yoAu 424765458&id=64231 e 5c 000707 ade 2881 af 5064017 b 3
-欧美 cr 8 HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS yoAu 424765458&id=64231 e 4 e 000 D 5285 e 287 e 5 e 27 ae 210 aa
-欧美 cr 9 HD，http：//A/ku9/JS/ku9-169. JS？token=yoDo 9 JS 424765458&id=64231 e 43000005 c 0 e 287 b 78262934 D 05
-欧美 cr 10 HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9JS yoAu 424765458&id=64231 e 35000087509 e 28782 fb 78337450
-欧美 cr 11 HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS yoAu 424765458&id=64231 e 29000 b 5 e 44 e 28754 D 970 cf79 e 5
-欧美 cr 12HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS 424765458&id=64231 bb 00 c 5 af 4 e 27 dac 6 b 1 ac 34 aa 7
-欧美 cr 13HD，http：//A/ku9/JS/ku9-169. JS？token=yoDo 9 JS 424765458&id=64231 b 92000 afe27 D 36 af 63 D 61 e 29
-欧美 cr 14HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9JS yoAu 424765458&id=64231 b 8600000 A 48 fae 27 D 07 D 329 db33 e 4
-欧美 cr 15HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS yoAu 424765458&id=64231 b 78000 add 51 e 27 cd 14927255 D 3 f
-欧美 cr 16HD，http：//A/ku9/JS/ku9-169. JS？token=yodo 9 JS 424765458&id=64231 b 600041098 e 27 c 98 db 39615346
-欧美 cr 17HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS yoAu 424765458&id=64231 b 4 A 000 de 8 afe 27 c 1 e 5 f 78545 A 2 D
-欧美 cr 18 HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS 424765458&id=64231 b 3 D 000 ccc 38 e 27 beb 4 e 0 c 6761 A 2
-欧美 cr 19HD，http：//A/ku9/JS/ku9-169. JS？token=yoto 9 JS 424765458&id=64231 b 310 b 2 fa 3 e 27 bc 0401 b 41502
-欧美HD3,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231a5e0004e407e27882302c8b31e1
-欧美HD4,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231a730008e6bde278d53e721a5725
-欧美HD5,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231a7f0003d911e27902d3411850e7
-欧美HD6,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231a8b0002615ee2793152059606bd
-欧美HD7,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231b27000855e1e27b94397bf80b92
-欧美crHD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231eaa000cc687e2894d1c6445706e
-欧美cr1HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=641a21a300048f44bf6d202b4d0f24f8
-欧美cr2HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231e9c0007a45ee289151c0c8f60ca
-欧美cr3HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231e91000587aae288e99916e46fdd
-欧美cr4HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231e860007ac07e288bf3061103b0d
-欧美cr5HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231e73000047b5e288731314ab23d5
-欧美cr6HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231e6700099e41e28846973df74159
-欧美cr7HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231e5c000707ade2881af5064017b3
-欧美cr8HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231e4e000d5285e287e5e27ae210aa
-欧美cr9HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231e43000005c0e287b78262934d05
-欧美cr10HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231e3500087509e28782fb78337450
-欧美cr11HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231e29000b5e44e28754d970cf79e5
-欧美cr12HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231bb0000c5af4e27dac6b1ac34aa7
-欧美cr13HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231b92000a3affe27d36af63d61e29
-欧美cr14HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231b86000a48fae27d07d329db33e4
-欧美cr15HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231b78000add51e27cd14927255d3f
-欧美cr16HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231b6a00041098e27c98db39615346
-欧美cr17HD,http://A/ku9/js/ku9-169.js?token=酷9JS交流群424765458&id=64231b4a000de8afe27c1e5f78545a2d
-欧美 HD 4，http：//A/ku9/JS/ku9-169. JS？token=yoDo 9 JS yoDo yoDo 424765458&id=64231 A 730008 e 6 bde 278 D 53 e 721 A 5725
-欧美 HD 5，http：//A/ku9/JS/ku9-169. JS？token=yoDo 9 JS yoDo 424765458&id=64231 A 7 f 0003 D 911 e 27902 D 3411850 e 7
+韩国,#genre#
+Arirang HD,http://smt.iktv.ddns-ip.net/Smart.php?id=arirang_korea
+Yonhap News,http://smt.iktv.ddns-ip.net/Smart.php?id=yonhapnews_korea
+CBS,http://smt.iktv.ddns-ip.net/Smart.php?id=cbs_korea
+EBS 1,http://smt.iktv.ddns-ip.net/Smart.php?id=ebs1_korea
+EBS2,http://smt.iktv.ddns-ip.net/Smart.php?id=ebs2_korea
+EBS Plus2,http://smt.iktv.ddns-ip.net/Smart.php?id=ebsplus2_korea
+SBS Plus,http://smt.iktv.ddns-ip.net/Smart.php?id=sbsplus_korea
+YTN,http://smt.iktv.ddns-ip.net/Smart.php?id=ytn_korea
+KBS World 24,http://smt.iktv.ddns-ip.net/Smart.php?id=kbsworld24_korea
+YTN Science,http://smt.iktv.ddns-ip.net/Smart.php?id=ytnscience_korea
+YTN Korean,http://smt.iktv.ddns-ip.net/Smart.php?id=ytnkorean_korea
+YTN DMB,http://smt.iktv.ddns-ip.net/Smart.php?id=ytndmb_korea
+Apps TV,http://smt.iktv.ddns-ip.net/Smart.php?id=appongoogle_korea
+All the Kpop,http://smt.iktv.ddns-ip.net/Smart.php?id=allthekpop_korea
+J the Kpop,http://smt.iktv.ddns-ip.net/Smart.php?id=jthekpop_korea
+EBS Kids,http://smt.iktv.ddns-ip.net/Smart.php?id=ebskids_korea
+CGNTV,http://smt.iktv.ddns-ip.net/Smart.php?id=cgntv_korea
 
