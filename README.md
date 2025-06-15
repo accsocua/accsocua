@@ -1,4 +1,4 @@
-香港,#genre#
+y香港,#genre#
 凤凰中文,http://smt.iktv.ddns-ip.net/Smart.php?id=phoenixtv_hd
 凤凰中文,http://smt.iktv.ddns-ip.net/Smart.php?id=phoenixtv_hd&token=81ee0c7ef579c502e78d73c40206e5eb
 凤凰资讯,http://smt.iktv.ddns-ip.net/Smart.php?id=phoenixinfo_hd
